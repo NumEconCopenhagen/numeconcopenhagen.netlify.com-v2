@@ -1,9 +1,25 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
-
 module.exports = {
-  /* Your site config here */
+  plugins: [
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Roboto:300,400,500', 'VT323', 'Material+Icons']
+        }
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: 'content',
+        path: `${__dirname}/content`,
+      }
+    },
+    {
+      resolve: `gatsby-transformer-remark`
+    },
+    {
+      resolve: `gatsby-transformer-yaml`
+    },
+  ]
 }
