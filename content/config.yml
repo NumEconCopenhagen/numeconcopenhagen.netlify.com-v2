@@ -31,6 +31,9 @@ notebook:
       - owner: "numeconcopenhagen"
         repository: "lectures-2019"
         path: "02/Primitives.ipynb"
+      - owner: "numeconcopenhagen"
+        repository: "lectures-2019"
+        path: "03/Optimize_Print_and_Plot.ipynb"
   - path: "/lectures/"
     notebooks:
       - owner: "numeconcopenhagen"
