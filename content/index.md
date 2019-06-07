@@ -29,13 +29,13 @@ The course is centered arround four GitHub repositories in **[NumEconCopenhagen]
 3. **[snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019)**: Useful code examples [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/snippets-2019/master?urlpath=lab)
 4. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
-___
+&nbsp;
 
 ### Self-study
 
 You can also go through this course as self-study. Details are provided [here](/self-study/).
 
-___
+&nbsp;
 
 ### Guides
 
@@ -62,7 +62,7 @@ In the third set of guides you learn how to use git:
 2. [Submitting to snippets-2019](/guides/snippets)
 3. [Creating an interactive version of your code](/guides/mybinder)
 
-___
+&nbsp;
 
 ### Course Description
 
@@ -82,7 +82,7 @@ While the course only focus on programming in Python, you will also be equipped 
 
 *For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019).*
 
-___
+&nbsp;
 
 ### Learning Outcomes
 
@@ -121,7 +121,7 @@ ___
 * Present and discuss results of a numerical analysis
 * Learn new programming tools and languages
 
-___
+&nbsp;
 
 ### Other ressources
 
