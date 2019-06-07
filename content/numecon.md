@@ -8,7 +8,7 @@ title: "NumEcon"
 ### Macro
 
 1. [Aiyagari](/numecon/Aiyagari)
-2. [AS-AD](/numecon/AS-AD)
+2. [ASAD](/numecon/ASAD)
 3. [OLG](/numecon/OLG)
 4. [Ramsey](/numecon/Ramsey)
 5. [Solow](/numecon/Solow)
@@ -18,10 +18,10 @@ title: "NumEcon"
 1. [Budgetset](/numecon/01_Budgetset)
 2. [Preferences](/numecon/02_Preferences)
 3. [Utility maximization](/numecon/03_Utility_maximization)
-4. [Substitution-, income- and wealth effects](/numecon/04_Substitution_Income_and_Wealth_Effects)
+4. [Substitution-, income- and wealth effects](/numecon/04_Substitution_income_and_wealth_effects)
 5. [Edgeworth](/numecon/05_Edgeworth)
 6. [Profit maximization](/numecon/06_Profit_maximization)
-7. [Partial equilibrium](/numecon/07_PartialEquilibrium)
+7. [07_Partial_equilibrium](/numecon/07_Partial_equilibrium)
 8. [Koopman](/numecon/08_Koopman)
 
 ### Probability theory
