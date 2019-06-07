@@ -6,7 +6,7 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 
 **Note:** We assume you have already signed up for GitHub and installed git on your computer. Otherwise, see step 2 in this [guide](/guides/python-setup/).
 
-## 1. Create your first repository
+### 1. Create your first repository
 
 1. Go to [GitHub.com](https://github.com/) and sign in
 2. In the lefthand sidebar click on:<br>
@@ -19,11 +19,11 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 
 {{< figure src="createRepo.gif" width="100%" class="text-center" >}}
 
-## 2. Clone your first repostiory
+### 2. Clone your first repostiory
 
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: clone` + write link to repository (from e.g. step 1)
 
-## 3. Work with your first repostiory
+### 3. Work with your first repostiory
 
 1. Open folder with repository (e.g. the one you just cloned in step 2)
 2. Download existing changes: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: sync`

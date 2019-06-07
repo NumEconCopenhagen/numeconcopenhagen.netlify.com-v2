@@ -10,7 +10,7 @@ To follow this course you need:
 
 A step-by-step guide is provided below. <br>
   
-## Step 1: Install Anaconda
+### Step 1: Install Anaconda
 
 **Note:** The installation might fail if your computer username contains a space or special characters (æ, ø, å, ê, â, î, ô, û, ä, ö, ë, ï, ü, ÿ etc.). The easiest solution is to change your username (otherwise you need to install Anaconda on a path *not* containing your user name).
 
@@ -25,7 +25,7 @@ A step-by-step guide is provided below. <br>
 2. Paste in `conda install -c conda-forge jupyterlab nodejs ipympl` + <kbd>Enter</kbd>
 3. Paste in `jupyter labextension install @jupyterlab/toc jupyter-matplotlib` + <kbd>Enter</kbd>
 
-## Step 2: VSCode
+### Step 2: VSCode
 
 1. Download VSCode from <https://code.visualstudio.com/>
 2. Run the installer (custom settings are fine)
@@ -47,6 +47,6 @@ A step-by-step guide is provided below. <br>
 4. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and open it again if already open) 
 5. Paste in `jupyter labextension install @lckr/jupyterlab_variableinspector` + <kbd>Enter</kbd>
 
-## Next guide
+### Next guide
 
 [Running Python in JupyterLab](/guides/jupyterlab)

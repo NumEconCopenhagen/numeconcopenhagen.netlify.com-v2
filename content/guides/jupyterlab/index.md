@@ -6,7 +6,7 @@ JupyterLab is an awesome way of combining text and code in the same framework. T
 
 {{< figure src="jupyterlab.gif" width="75%" class="text-center">}}
 
-## 1. Starting JupyterLab
+### 1. Starting JupyterLab
 
 _[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
 
@@ -19,7 +19,7 @@ Hopefully, you will experience that you browser automatically opens a new tab lo
 
 **Note:** Despite JupyterLab is running in a browser, it is running offline (the path is something like *localhos:8888/lab*).
 
-## 2. Creating a notebook
+### 2. Creating a notebook
 
 In the *Launcher* tab you create a new Jupyter notebook by pressing the *Python 3* bottom under *Notebook*. Notebooks consists of two types of cells:
 
@@ -49,13 +49,13 @@ The **interface of JupyterLab** is explained in detail [here](https://jupyterlab
 
 The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
 
-## 3. Variable inspector
+### 3. Variable inspector
 
 A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
 
 {{< figure src="jupyterlab-variable-inspector.gif" width="75%" class="text-center">}}
 
-## 4. Shortcuts
+### 4. Shortcuts
 
 Other good-to-know standard short-cuts are:
 
@@ -122,6 +122,6 @@ You now have access to the following short-cuts:
 4. Move cell up: <kbd>Ctrl</kbd>+<kbd>&uparrow;</kbd> (only in command mode)
 5. Move cell down: <kbd>Ctrl</kbd>+<kbd>&downarrow;</kbd> (only in command mode)
 
-## Next guide
+### Next guide
 
 [Running Python in VSCode](/guides/vscode-basics)

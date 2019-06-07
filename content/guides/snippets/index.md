@@ -6,7 +6,7 @@ We really hope that you will share your best code snippets and examples with you
 
 **Note:** The best submissions to [snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019) can later be added to the [NumEcon-package](https://github.com/NumEconCopenhagen/NumEcon).
 
-## Submitting: Forking and making a pull request
+### Submitting: Forking and making a pull request
 
 At GitHub you're able to fork any public repository that you don't own. Basically, a fork is a copy of an another persons or organizations repository where you can commit to the project. Not only, are you able to commit to the project, but you can also make a suggestion to the owner of the repository to include your changes or additions to the project. 
 
@@ -14,7 +14,7 @@ First, I'll show how to fork the snippets-2019 repository and a new `.py` file (
 
 {{< figure src="pull-request.gif" width="100%" class="text-center">}}
 
-## Step-by-step guide
+### Step-by-step guide
 
 This is basically how you provide changes to any software project on GitHub: 
 
@@ -26,7 +26,7 @@ This is basically how you provide changes to any software project on GitHub:
 6. Go to the forked repository 
 7. Create a pull request with a meaningful explanation
 
-## Notebooks
+### Notebooks
 
 The best way to contribute to [snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019) is by creating notebooks with code and examples of how to use it. See the `Simulating the Solow mode.ipynb` notebook ([link](https://github.com/NumEconCopenhagen/snippets-2019/blob/master/Simulating%20the%20Solow%20model.ipynb)) for the template you should follow.
 
