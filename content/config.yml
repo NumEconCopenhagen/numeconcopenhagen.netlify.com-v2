@@ -30,7 +30,7 @@ urls:
     weight: 35
   - title: "ConSav"
     icon: "code"
-    url: "/numecon"
+    url: "/consav"
     weight: 40
 
 notebook:
