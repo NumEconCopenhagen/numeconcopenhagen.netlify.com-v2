@@ -14,7 +14,9 @@ On this page you find:
 
 <br>
 
-{{< csvtable src="https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/export?format=csv" col_start="0" col_end="3">}}
+| a | a | a | a | a |
+|---|---|---|---|---|
+| 1 | 1 | 2 | 2 | 3 |
 
 <br>
 
@@ -22,7 +24,9 @@ On this page you find:
 
 <br>
 
-{{< csvtable src="https://docs.google.com/spreadsheets/d/1T3g-ltqZNWU_92QEdgSbyzlpUROkMUjVQkqzv6xGDD0/export?format=csv" col_start="0" col_end="1">}}
+| a | a | a | a | a |
+|---|---|---|---|---|
+| 1 | 1 | 2 | 2 | 3 |
 
 <br>
 

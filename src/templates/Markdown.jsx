@@ -19,7 +19,7 @@ export default class MarkdownTemplate extends Component {
         return (
             <div style={{ display: this.state.class }}>
                 <Header>
-                    <Typography variant='h1'>{data.markdownRemark.frontmatter.title}</Typography>
+                    <Typography variant='h1' style={{ fontWeight: 400 }}>{data.markdownRemark.frontmatter.title}</Typography>
                     <Markdown>{data.markdownRemark.rawMarkdownBody}</Markdown>
                 </Header>
             </div>

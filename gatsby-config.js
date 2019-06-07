@@ -21,5 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-transformer-yaml`
     },
+    {
+      resolve: `gatsby-plugin-offline`
+    }
   ]
 }
