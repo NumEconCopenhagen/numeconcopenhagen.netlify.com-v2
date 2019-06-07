@@ -26,7 +26,7 @@ urls:
     weight: 30
   
 notebook:
-  
+
   - path: "/exercises/"
     notebooks:
       - owner: "numeconcopenhagen"
@@ -51,10 +51,10 @@ notebook:
         repository: "exercises-2019"
         path: "PS7/problem_set_7.ipynb"
       - owner: "numeconcopenhagen"
-        repository: "exercises-2019"
+        repository: "lectures-2019"
         path: "exam/exam_2019.ipynb"
       - owner: "numeconcopenhagen"
-        repository: "exercises-2019"
+        repository: "lectures-2019"
         path: "exam/solution_2019.ipynb"
 
   - path: "/lectures/"
