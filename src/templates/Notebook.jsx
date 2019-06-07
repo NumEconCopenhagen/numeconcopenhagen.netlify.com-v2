@@ -1,6 +1,7 @@
 import React from 'react';
 import NotebookRender from "@nteract/notebook-render";
 import Header from "../components/Header"
+require(`katex/dist/katex.min.css`)
 
 
 class NotebookWrapper extends React.Component {
