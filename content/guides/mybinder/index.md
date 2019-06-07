@@ -2,7 +2,7 @@
 title: "Creating an interactive version of your code (mybinder.org)"
 ---
 
-[mybinder.org](https://mybinder.org/)^[The documentation is available [here](https://mybinder.readthedocs.io/en/latest/index.html).] is an awesome way of sharing your Python code and Jupyter notebooks in a GitHub repository by creating an interactive environment, where other people can run (but not change) your code without having Python installed.
+[mybinder.org](https://mybinder.org/) is an awesome way of sharing your Python code and Jupyter notebooks in a GitHub repository by creating an interactive environment, where other people can run (but not change) your code without having Python installed.
 
 ### The most simple setup
 

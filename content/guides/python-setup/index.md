@@ -39,7 +39,7 @@ A step-by-step guide is provided below. <br>
 8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above
 9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
 
-## Step 3: Install Git
+### Step 3: Install Git
 
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/

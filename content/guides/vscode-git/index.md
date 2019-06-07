@@ -38,7 +38,7 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 
 {{< figure src="GitCloneCommit.gif" width="100%" class="text-center" >}}
 
-## 4. Merge conflicts
+### 4. Merge conflicts
 
 *Skip this if you are a first time user of git*
 
