@@ -26,6 +26,7 @@ urls:
     weight: 30
   
 notebook:
+  
   - path: "/exercises/"
     notebooks:
       - owner: "numeconcopenhagen"
@@ -49,6 +50,13 @@ notebook:
       - owner: "numeconcopenhagen"
         repository: "exercises-2019"
         path: "PS7/problem_set_7.ipynb"
+      - owner: "numeconcopenhagen"
+        repository: "exercises-2019"
+        path: "exam/exam_2019.ipynb"
+      - owner: "numeconcopenhagen"
+        repository: "exercises-2019"
+        path: "exam/solution_2019.ipynb"
+
   - path: "/lectures/"
     notebooks:
       - owner: "numeconcopenhagen"
@@ -92,10 +100,7 @@ notebook:
         path: "12/SMD.ipynb"
       - owner: "numeconcopenhagen"
         repository: "lectures-2019"
+        path: "13/SMD_Julia.ipynb"
+        - owner: "numeconcopenhagen"
+        repository: "lectures-2019"
         path: "13/juliaisfast.ipynb"
-      - owner: "numeconcopenhagen"
-        repository: "lectures-2019"
-        path: "exam/exam_2019.ipynb"
-      - owner: "numeconcopenhagen"
-        repository: "lectures-2019"
-        path: "exam/solution_2019.ipynb"
