@@ -27,7 +27,11 @@ urls:
   - title: "NumEcon"
     icon: "explore"
     url: "/numecon"
-    weight: 30
+    weight: 35
+  - title: "ConSav"
+    icon: "code"
+    url: "/numecon"
+    weight: 40
 
 notebook:
 
