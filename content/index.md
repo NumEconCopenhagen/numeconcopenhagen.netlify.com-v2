@@ -1,8 +1,7 @@
 ---
 title: "Welcome to Introduction to Programming and Numerical Analysis"
 ---
-
-&nbsp;
+___
 
 **Course responsible:** [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 
@@ -32,13 +31,13 @@ The course is centered arround four GitHub repositories in **[NumEconCopenhagen]
 
 ___
 
-## Self-study
+### Self-study
 
 You can also go through this course as self-study. Details are provided [here](/self-study/).
 
 ___
 
-## Guides
+### Guides
 
 To follow this course you need:
 
@@ -65,7 +64,7 @@ In the third set of guides you learn how to use git:
 
 ___
 
-## Course Description
+### Course Description
 
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
@@ -85,7 +84,7 @@ While the course only focus on programming in Python, you will also be equipped 
 
 ___
 
-## Learning Outcomes
+### Learning Outcomes
 
 **Knowledge:**
 
@@ -124,7 +123,7 @@ ___
 
 ___
 
-## Other ressources
+### Other ressources
 
 Some recommended online ressources for learning programming relevant to economics are:
 
