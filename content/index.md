@@ -2,13 +2,24 @@
 title: "Welcome to Introduction to Programming and Numerical Analysis"
 ---
 
+**Course responsible:** [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
+
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
 We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty - programming is not a spectator sport!
 
-All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**.
+Once you are done with the course, you will have learned all of the tools necessary for programming a numerical solution algorithm for any economic model you face in your undergraduate and graduate courses. 
 
-Alternatively, [self-study](/self-study/) is a possibility. 
+The course is divided into four parts:
+
+1. **Fundamentals:** Print, plot, optimize, simulate, document, work-flow.
+2. **Working with data:** Fetch, combine, split-apply-combine, visualize.
+3. **Algorithms:** Pseudo code, algorithms, complexity, solve, symbolic.
+4. **Further perspectives:** Comprehensions, generators, vectorization, parallization, timing, Numba.
+
+For details, see the **[course plan](/course-plan/)**, the lectures **[lectures](/lectures/)**, and the **[exercises](/exercises/)**
+
+All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. 
 
 The course is centered arround four GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
 
@@ -17,7 +28,9 @@ The course is centered arround four GitHub repositories in **[NumEconCopenhagen]
 3. **[snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019)**: Useful code examples [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/snippets-2019/master?urlpath=lab)
 4. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
-The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
+# Self-study
+
+You can also go through this course as self-study. Details are provided [here](/self-study/).
 
 # Guides
 

@@ -21,9 +21,9 @@ A step-by-step guide is provided below. <br>
 
 **Step 1b: JupyterLab (with extensions)**
 
-1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows)
+1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
 2. Paste in `conda install -c conda-forge jupyterlab nodejs ipympl` + <kbd>Enter</kbd>
-3. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd>
+3. Paste in `jupyter labextension install @jupyterlab/toc jupyter-matplotlib` + <kbd>Enter</kbd>
 
 ## Step 2: VSCode
 
@@ -44,7 +44,7 @@ A step-by-step guide is provided below. <br>
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
 3. Run installer with all the custom settings
-4. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows) (close and open it again if already open) 
+4. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and open it again if already open) 
 5. Paste in `jupyter labextension install @lckr/jupyterlab_variableinspector` + <kbd>Enter</kbd>
 
 ## Next guide

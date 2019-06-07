@@ -10,12 +10,14 @@ JupyterLab is an awesome way of combining text and code in the same framework. T
 
 _[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
 
-1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows)
+1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
 2. Paste in `jupyter lab` + <kbd>Enter</kbd>
 
 Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
 
 {{< figure src="jupyterlab-open.gif" width="75%" class="text-center">}}
+
+**Note:** Despite JupyterLab is running in a browser, it is running offline (the path is something like *localhos:8888/lab*).
 
 ## 2. Creating a notebook
 
@@ -48,6 +50,7 @@ The **interface of JupyterLab** is explained in detail [here](https://jupyterlab
 The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
 
 ## 3. Variable inspector
+
 A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
 
 {{< figure src="jupyterlab-variable-inspector.gif" width="75%" class="text-center">}}

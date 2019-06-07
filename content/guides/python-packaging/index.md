@@ -14,7 +14,7 @@ The next thing we need to do is to clone the repository to our computer to add s
 
 {{< figure src="CloningRepo.gif" width="100%" class="text-center" >}}
 
-The next thing we need to do is to create a folder that contains the code we want to share. In python you 
+The next thing we need to do is to create a folder that contains the code we want to share. In Python you 
 name this folder the same as you want to name you package. For instance, we are going to share a function
 that prints hello. Hence, we create a folder naming it `name`. Furthermore, we need to add a file 
 called `__init__.py` to tell python that this folder is indeed a python module.
@@ -52,7 +52,7 @@ we would have used the syntax
  from hello1.hello2 import hello
 {{< / highlight >}}
 
-Finally, we need to tell `python` or rather `pip` how to install the package. 
+Finally, we need to tell `Python` or rather `pip` how to install the package. 
 We therefore need to create a setup.py file.
 
 {{< figure src="Setup.gif" width="100%" class="text-center" >}}
