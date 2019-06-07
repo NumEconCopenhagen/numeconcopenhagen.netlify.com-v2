@@ -101,6 +101,6 @@ notebook:
       - owner: "numeconcopenhagen"
         repository: "lectures-2019"
         path: "13/SMD_Julia.ipynb"
-        - owner: "numeconcopenhagen"
+      - owner: "numeconcopenhagen"
         repository: "lectures-2019"
         path: "13/juliaisfast.ipynb"
