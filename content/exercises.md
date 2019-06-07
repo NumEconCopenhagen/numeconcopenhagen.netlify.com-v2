@@ -2,6 +2,9 @@
 title: "Exercises"
 ---
 
+&nbsp;
+&nbsp;
+
 In the following you will find the exercises for the classes. 
 
 In **week 1-3** you should:
@@ -9,6 +12,8 @@ In **week 1-3** you should:
 1. Work on the [DataCamp](https://www.datacamp.com/home) courses, and 
 2. Follow the [guides](/guides) on installing and running Python, and on searching for answers and asking questions.
 
+&nbsp;
+&nbsp;
 ___
 
 ### Problem sets
@@ -21,6 +26,8 @@ ___
 * [Problem Set 6](/exercises/problem_set_6)
 * [Problem Set 7](/exercises/problem_set_7)
 
+&nbsp;
+&nbsp;
 ___
 
 ### Projects
@@ -29,6 +36,8 @@ ___
 * [Project 2: Model analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/projects/ModelProject.pdf)
 * [Peer-feedback guide](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/projects/PeerFeedbackGuide.pdf) 
 
+&nbsp;
+&nbsp;
 ___
 
 ### Exam 2019
