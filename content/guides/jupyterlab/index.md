@@ -4,7 +4,7 @@ title: "Running Python in JupyterLab"
 
 JupyterLab is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
 
-![jupyterlab][jupyterlab.gif]
+![jupyterlab](jupyterlab.gif)
 
 ### 1. Starting JupyterLab
 
@@ -15,7 +15,7 @@ _[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
 
 Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
 
-{{< figure src="jupyterlab-open.gif" width="75%" class="text-center">}}
+![jupyterlab-open](jupyterlab-open.gif)
 
 **Note:** Despite JupyterLab is running in a browser, it is running offline (the path is something like *localhos:8888/lab*).
 
@@ -53,7 +53,7 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 
 A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
 
-{{< figure src="jupyterlab-variable-inspector.gif" width="75%" class="text-center">}}
+![jupyterlab-variable-inspector](jupyterlab-variable-inspector.gif)
 
 ### 4. Shortcuts
 
@@ -74,7 +74,7 @@ Other good-to-know standard short-cuts are:
   
 **Advanced:** Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab paste in the followng:
 
-```
+```python
 {
     "runmenu:restart-and-run-all": {
       "selector": "[data-jp-code-runner]",        
