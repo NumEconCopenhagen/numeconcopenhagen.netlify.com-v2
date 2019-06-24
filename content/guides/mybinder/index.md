@@ -21,7 +21,7 @@ To include depencies (e.g. _numpy_ and _matplotlib_) you repository need to have
 
 ### Example
 
-{{< figure src="mybinder.gif" width="100%" class="text-center" >}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/mybinder/mybinder.gif" alt="mybinder" width="80%"/>
 
 ### Installing dependencies on-the-fly
 

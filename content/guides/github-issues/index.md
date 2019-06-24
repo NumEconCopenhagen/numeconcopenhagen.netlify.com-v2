@@ -13,7 +13,7 @@ To create a _GitHub Issue_ follow these steps:
 4. Give the issue an appropriate name so it is clear to other people what the issue is about.
 5. Explain your problem as simply as possible.
 
-<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/github-issues/creating-issue.gif" alt="creating-issue" width="100%"/>
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/github-issues/creating-issue.gif" alt="creating-issue" width="80%"/>
 
 ### Commenting on an issue
 

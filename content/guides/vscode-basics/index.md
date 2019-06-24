@@ -1,12 +1,10 @@
 ---
 title: "Running Python in VSCode"
-markup: "mmark"
 ---
 
 This is a short guide on how to use **Visual Studio Code** (VSCode). Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and only use Jupyter notebooks for presenting the results.
 
 ### 1. Execute Python file
-
 
 The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
 
@@ -15,10 +13,10 @@ The following step-by-step guide show you how to create a file, write some Pytho
 3. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> (write e.g. test.py)
 4. **Write code**: Write the following lines of code:
 
-    {{< highlight python "linenos=table" >}}
+    ```python
     message = 'hello world'
     print(message)
-    {{< / highlight >}}
+    ```
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
 
@@ -36,11 +34,11 @@ The following step-by-step guide show you how to create a file, write some Pytho
 
 1. **Write code**: Write the following lines of code:
 
-    {{< highlight python "linenos=table" >}}
+    ```python
     message = 'hello world'
     print(message)      
     print(messages) 
-    {{< / highlight >}}
+    ```
 
 2. Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
 3. Show all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 

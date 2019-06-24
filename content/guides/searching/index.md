@@ -10,18 +10,17 @@ The far most important skill for an efficient programmer is to be good at googli
 
 Let us consider an example. Say, that I create the following string and store it in a variable.
 
-{{< highlight python "linenos=table" >}}
+```python
 # Creating a string, and stores is as `s`
 s = "thisisastring"
 
 # Let's try to replace `t` at index 0 with `k` and see what happens
 s[0] = "k"
-{{< / highlight >}}
+```
 
 This results in the following:
 
-{{< highlight python "linenos=table" >}}
-
+```python
 >>> # Creating a string, and stores is as `s`
 ... s = "thisisastring"
 >>>
@@ -30,15 +29,17 @@ This results in the following:
 Traceback (most recent call last):
   File "<stdin>", line 2, in <module>
 TypeError: 'str' object does not support item assignment
-{{< / highlight >}}
+```
 
 Python tells us that we made a `TypeError`, and that `str` objects doesn't support item assignment. At first, these seems not very helpful because without prior programming experience this does not make sense. But let us try to see what happens if copy the line, and see what google suggest us. 
 
 {{< figure src="google-str-object-assign-error.gif" width="100%" class="text-center" attr="A Jupyter Notebook">}}
 
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/searching/google-str-object-assign-error.gif" alt="google-str-object-assign-error" width="80%"/>
+
 As we see the first example seems rather advanced, so we continue to the second suggestion. Here we see that _Python_ doesn't allow us to change already created strings, but we are able to create a new string from slices of strings. Thus, this would result in what we tried to achieve.
 
-{{< highlight python "linenos=table" >}}
+```python
 # Assign `thisisastring` to the variable `s`
 s = "thisisastring"
 
@@ -46,11 +47,11 @@ s = "thisisastring"
 # and until the end of the string to the variable `s2`
 s2 = "k" + s[1:]
 s2
-{{< / highlight >}}
+```
 
 Executing the code yields:
-{{< highlight python "linenos=table" >}}
 
+```python
 >>> s = "thisisastring"
 >>>
 >>> # Concatenate "k" with all characters from the string s from index 1 
@@ -58,7 +59,7 @@ Executing the code yields:
 ... s2 = "k" + s[1:]
 >>> s2
 'khisisastring'
-{{< / highlight >}}
+```
 
 ### Conclusion
 

@@ -8,11 +8,11 @@ We will go through a very minimal example of creating a small python package.
 
 The first thing you should do is to create an empty repository on github.
 
-{{< figure src="CreatingRepo.gif" width="100%" class="text-center" >}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/python-packaging/creating-repo.gif" alt="creating-repo" width="80%"/>
 
 The next thing we need to do is to clone the repository to our computer to add some python code
 
-{{< figure src="CloningRepo.gif" width="100%" class="text-center" >}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/python-packaging/cloning-repo.gif" alt="cloning-repo" width="80%"/>
 
 The next thing we need to do is to create a folder that contains the code we want to share. In Python you 
 name this folder the same as you want to name you package. For instance, we are going to share a function
@@ -31,15 +31,15 @@ minimalpythonpackage/
         hello.py
 ```
 
-{{< figure src="FunCreation.gif" width="100%" class="text-center" >}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/python-packaging/fun-creation.gif" alt="fun-creation" width="80%"/>
 
 If, we launch `ipython` we can now import the module `hello`.
 
-{{< figure src="Importing.gif" width="100%" class="text-center" >}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/python-packaging/importing.gif" alt="importing" width="80%"/>
 
 In the gif we load the function `hello` from the package `hello` and use the `hello` module. Thus, if the directory structure had been
 
-```
+```python
 minimalpythonpackage/
     hello1/
         __init__.py
@@ -48,18 +48,19 @@ minimalpythonpackage/
 
 we would have used the syntax
 
-{{< highlight python "linenos=table" >}}
+```python
  from hello1.hello2 import hello
-{{< / highlight >}}
+```
 
 Finally, we need to tell `Python` or rather `pip` how to install the package. 
 We therefore need to create a setup.py file.
 
-{{< figure src="Setup.gif" width="100%" class="text-center" >}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/python-packaging/setup.gif" alt="setup" width="80%"/>
 
 We now need to publish the package
 
-{{< figure src="Installing.gif" width="100%" class="text-center" >}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/python-packaging/installing.gif" alt="setup" width="80%"/>
 
 Finally, you can add a `README.md` file that give instruction about how to use the package. 
+
 A `README.md` file will be shown when you enter the a repository at github.com.

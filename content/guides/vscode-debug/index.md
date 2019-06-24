@@ -19,7 +19,7 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 
 1. Write the following code
 
-    {{< highlight python "linenos=table" >}}
+    ```python
     def f(a,b):
         a += 2
         b += 2
@@ -38,8 +38,8 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
     f(a,b)
     f(a,b)
     print(a,b)
-    {{< / highlight >}}
-
+    ```
+    
 2. Add breakpoint on line 11
 3. Start debugger
 4. Experiment with stepping into, over and out
@@ -47,7 +47,7 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 6. Open the debug console with <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd> 
 7. Try writing e.g. `a+2`
 
-{{< figure src="vscode-debug-gif.gif" width="75%" class="text-center" attr="The terminal and browser after you've executed the command `jupyter notebook`">}}
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-debug/vscode-debug.gif" alt="vscode-debug" width="80%"/>
 
 
 **Bonus info:** 
