@@ -4,7 +4,7 @@ title: "Running Python in JupyterLab"
 
 JupyterLab is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
 
-![jupyterlab](https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/blob/master/content/guides/jupyterlab/jupyterlab.gif)
+![jupyterlab](https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab.gif)
 
 ### 1. Starting JupyterLab
 
@@ -15,7 +15,7 @@ _[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
 
 Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
 
-![jupyterlab-open](https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/blob/master/content/guides/jupyterlab/jupyterlab-open.gif)
+![jupyterlab-open](https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab-open.gif)
 
 **Note:** Despite JupyterLab is running in a browser, it is running offline (the path is something like *localhos:8888/lab*).
 
@@ -53,7 +53,7 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 
 A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
 
-![jupyterlab-variable-inspector](https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/blob/master/content/guides/jupyterlab/jupyterlab-variable-inspector.gif)
+![jupyterlab-variable-inspector](https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab-variable-inspector.gif)
 
 ### 4. Shortcuts
 
