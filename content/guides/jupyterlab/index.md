@@ -4,7 +4,7 @@ title: "Running Python in JupyterLab"
 
 JupyterLab is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
 
-{{< figure src="jupyterlab.gif" width="75%" class="text-center">}}
+![jupyterlab][jupyterlab.gif]
 
 ### 1. Starting JupyterLab
 
