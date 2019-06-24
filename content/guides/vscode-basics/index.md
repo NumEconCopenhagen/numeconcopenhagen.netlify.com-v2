@@ -33,7 +33,7 @@ The following step-by-step guide show you how to create a file, write some Pytho
 ### 3. Find errors in your code
 
 1. **Write code**: Write the following lines of code:
-
+    
     ```python
     message = 'hello world'
     print(message)      

@@ -9,8 +9,7 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 ### 1. Create your first repository
 
 1. Go to [GitHub.com](https://github.com/) and sign in
-2. In the lefthand sidebar click on:<br>
-    {{< figure src="new.png" width="5%" >}}
+2. In the lefthand sidebar click on: <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/new.png" alt="new" width="30"/>
 3. Choose a repository name
 4. In *Add .gitignore* choose *Python*
 5. In *Add a license* choose e.g. *MIT License*

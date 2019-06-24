@@ -48,9 +48,8 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 7. Try writing e.g. `a+2`
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-debug/vscode-debug.gif" alt="vscode-debug" width="80%"/>
+<br /><br />
 
-
-**Bonus info:** 
-
-1. It also stops at errors.
-2. Breakpoints can be made conditional (right click on it in list or by line number)
+> **Bonus info:** 
+>1. It also stops at errors.
+> 2. Breakpoints can be made conditional (right click on it in list or by line number)
