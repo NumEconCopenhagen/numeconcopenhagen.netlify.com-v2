@@ -4,9 +4,9 @@ title: "Self-study"
 
 You can also go through this course as self-study. 
 
-If you have never programmed before, the [DataCamp](https://www.datacamp.com/home) courses is the most gentle introduction to Python you can get. It is worth paying for. 
+*If you have never programmed before, the [DataCamp](https://www.datacamp.com/home) courses is the most gentle introduction to Python you can get. It is worth paying for.*
 
-After that:
+**After that:**
 
 1. Read the [introduction slides](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/01/01_Introduction.pdf).
 2. Follow the first set of [guides](/guides/).

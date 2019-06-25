@@ -17,11 +17,13 @@ title: "Creating an interactive version of your code (mybinder.org)"
 
 To include depencies (e.g. _numpy_ and _matplotlib_) you repository need to have a folder called `/binder` in its root directory. This folder must contain a `environment.yml` file with lists of the dependencies. Your `projects-2019-YOURGROUPNAME` repository automatically includes this, and most likely you do not need to change it. For an example of a `environment.yml` file see [here](https://github.com/NumEconCopenhagen/numeconcopenhagen-2019/blob/master/binder/environment.yml). 
 
-**Advanced**: To activate extensions for JupyterLab you additionally need a `postBuild` file. For an example see [here](https://github.com/NumEconCopenhagen/numeconcopenhagen-2019/blob/master/binder/postBuild). 
+> **Advanced**: To activate extensions for JupyterLab you additionally need a `postBuild` file. For an example see [here](https://github.com/NumEconCopenhagen/numeconcopenhagen-2019/blob/master/binder/postBuild). 
 
 ### Example
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/mybinder/mybinder.gif" alt="mybinder" width="80%"/>
+<br />
+<br />
 
 ### Installing dependencies on-the-fly
 

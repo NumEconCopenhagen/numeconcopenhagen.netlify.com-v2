@@ -14,6 +14,8 @@ To create a _GitHub Issue_ follow these steps:
 5. Explain your problem as simply as possible.
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/github-issues/creating-issue.gif" alt="creating-issue" width="80%"/>
+<br />
+<br />
 
 ### Commenting on an issue
 

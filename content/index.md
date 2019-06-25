@@ -18,7 +18,7 @@ The course is divided into four parts:
 3. **Algorithms:** Pseudo code, algorithms, complexity, solve, symbolic.
 4. **Further perspectives:** Comprehensions, generators, vectorization, parallization, timing, Numba.
 
-For details, see the **[course plan](/course-plan/)**, the lectures **[lectures](/lectures/)**, and the **[exercises](/exercises/)**
+For details, see the **[course plan](/course-plan/)**, the lectures **[lectures](/lectures/)**, and the **[exercises](/exercises/)**.
 
 All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. 
 
@@ -33,7 +33,7 @@ The course is centered arround four GitHub repositories in **[NumEconCopenhagen]
 
 ### Self-study
 
-You can also go through this course as self-study. Details are provided [here](/self-study/).
+You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
 
 &nbsp;
 
@@ -48,7 +48,7 @@ To follow this course you need:
 In the first set of guides you learn how install and run Python:
 
 1. [Installing Python and VSCode](/guides/python-setup)
-2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](/guides/markdown))
+2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](https://www.markdownguide.org/basic-syntax/))
 3. [Running Python in VSCode](/guides/vscode-basics) (see also: [Debugging in VSCode](/guides/vscode-debug))
 
 In the second set of guides you learn how to search for answers and ask questions:

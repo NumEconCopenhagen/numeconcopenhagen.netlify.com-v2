@@ -33,9 +33,9 @@ TypeError: 'str' object does not support item assignment
 
 Python tells us that we made a `TypeError`, and that `str` objects doesn't support item assignment. At first, these seems not very helpful because without prior programming experience this does not make sense. But let us try to see what happens if copy the line, and see what google suggest us. 
 
-{{< figure src="google-str-object-assign-error.gif" width="100%" class="text-center" attr="A Jupyter Notebook">}}
-
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/searching/google-str-object-assign-error.gif" alt="google-str-object-assign-error" width="80%"/>
+<br />
+<br />
 
 As we see the first example seems rather advanced, so we continue to the second suggestion. Here we see that _Python_ doesn't allow us to change already created strings, but we are able to create a new string from slices of strings. Thus, this would result in what we tried to achieve.
 

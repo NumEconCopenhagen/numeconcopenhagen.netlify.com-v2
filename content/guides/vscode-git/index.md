@@ -4,7 +4,7 @@ title: "Using git in VSCode"
 
 This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). The purpose of git is to allow you to easily share your code with collaborators and track the changes each of you make.
 
-**Note:** We assume you have already signed up for GitHub and installed git on your computer. Otherwise, see step 2 in this [guide](/guides/python-setup/).
+> **Note:** We assume you have already signed up for GitHub and installed git on your computer. Otherwise, see step 2 in this [guide](/guides/python-setup/).
 
 ### 1. Create your first repository
 
@@ -17,6 +17,8 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 7. Copy the URL  
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/create-repo.gif" alt="create-repo" width="80%"/>
+<br />
+<br />
 
 ### 2. Clone your first repostiory
 
@@ -36,6 +38,8 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 <p style="font-size: 20px;"><strong>IMPORTANT NOTE</strong>: To avoid merge conflicts always download existing changes, before you make new ones. This reduces the risk of merge conflicts, where you and your collaborators have changed the same lines of code</p>
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/git-clone-commit.gif" alt="git-clone-commit" width="80%"/>
+<br />
+<br />
 
 ### 4. Merge conflicts
 
