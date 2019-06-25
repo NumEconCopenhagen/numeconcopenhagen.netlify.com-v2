@@ -7,7 +7,7 @@ title: "Course plan"
 ### Week 1: Introduction
 
 * **Lecture:** You will be introduced to working with Python 3 (Anaconda, JupyterLab, VS Code). We will: 
-* 
+
   1. Solve a consumer problem
   2. Simulate an AS-AD model
    

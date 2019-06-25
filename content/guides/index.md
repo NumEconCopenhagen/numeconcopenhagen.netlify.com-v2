@@ -6,7 +6,7 @@ In the first set of guides you learn how install and run Python:
 
 1. [Installing Python and VSCode](/guides/python-setup)
 2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](https://www.markdownguide.org/basic-syntax/))
-3. [Running Python in VSCode](/guides/vscode-basics) (see also: [Debugging in VSCode](/guides/vscode-debug))
+3. [Running Python in VSCode](/guides/vscode-basics)
 
 In the second set of guides you learn how to search for answers and ask questions:
 
@@ -21,4 +21,5 @@ In the third set of guides you learn how to use git:
 
 Extra guides:
 
-1. [Creating a python package](/guides/python-package)
+1. [Debugging in VSCode](/guides/vscode-debug)
+2. [Creating a python package](/guides/python-package)

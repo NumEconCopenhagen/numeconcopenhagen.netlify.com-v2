@@ -2,9 +2,10 @@
 title: "NumEcon"
 ---
 
-A code library with numerical models for undergraduate and graduate students of economics. The goal of NumEcon is to provide tools for solving canonical models in microeconomics and macroeconomics (and a bit of econometrics). This e.g. includes the consumer problem and Edgeworth and Koopman economies in micro, and the Ramsey and OLG models in macro.
+A code library with numerical models for undergraduate and graduate students of economics. The goal of NumEcon is to provide tools for solving canonical models in microeconomics and macroeconomics (and a bit of econometrics). This e.g. includes the consumer problem and Edgeworth and Koopman economies in micro, and the Ramse   y and OLG models in macro.
 
 > **[Code repository](https://github.com/NumEconCopenhagen/NumEcon)**
+>
 > **[Notebook repository](https://github.com/NumEconCopenhagen/NumEconNotebook)** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
 ### Macro
