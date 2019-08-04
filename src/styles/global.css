@@ -1,7 +1,8 @@
 strong, b {
-  font-weight: 600;
+  font-weight: 600!important;
 }
 
 *, *::before, *::after {
-  margin: 0px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
