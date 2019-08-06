@@ -83,7 +83,7 @@ function Header(props) {
                 <MuiThemeProvider theme={theme}>
                     <div className={classes.root}>
                         <CssBaseline />
-                        <AppBar position="fixed" className={classes.appBar}>
+                        <AppBar position="fixed" className={classes.appBar} style={{ marginTop: "0px", marginBottom: "0px" }}>
                             <Toolbar>
                                 <Typography variant="h6" color="inherit" noWrap style={{ fontFamily: 'VT323', fontSize: '32px' }}>
                                     <Link color='inherit' underline='none' href='/'>{data.allFile.edges[0].node.childContentYaml.title}</Link>
