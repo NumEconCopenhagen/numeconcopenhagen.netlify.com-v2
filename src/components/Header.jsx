@@ -78,8 +78,8 @@ function Header(props) {
       }
     `
     return (
-        <Wrapper>
-            <StaticQuery query={query} render={data => (
+        <StaticQuery query={query} render={data => (
+            <Wrapper title={data.allFile.edges[0].node.childContentYaml.title}>
                 <MuiThemeProvider theme={theme}>
                     <div className={classes.root}>
                         <CssBaseline />
@@ -119,10 +119,10 @@ function Header(props) {
                             {children}
                         </main>
                     </div>
-                </MuiThemeProvider>)
-            }
-            />
-        </Wrapper>
+                </MuiThemeProvider>
+            </Wrapper>)
+        }
+        />
     );
 }
 

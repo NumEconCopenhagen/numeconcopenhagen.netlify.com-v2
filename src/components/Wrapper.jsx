@@ -6,7 +6,7 @@ export class Wrapper extends Component {
         return (
             <Fragment>
                 <Helmet>
-                    <title>NumEconCopenhagen</title>
+                    <title>{this.props.title}</title>
                 </Helmet>
                 {this.props.children}
             </Fragment>
