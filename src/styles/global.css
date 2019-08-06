@@ -2,12 +2,7 @@ strong, b {
   font-weight: 600!important;
 }
 
-.notebook-render div div {
-  padding-top: 1px;
-  padding-bottom: 1px;
-}
-
-*::before, *::after {
-  padding-top: 0px;
-  padding-bottom: 0px;
+*, *::before, *::after {
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
