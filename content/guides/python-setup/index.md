@@ -14,9 +14,7 @@ To follow this course you need:
 
 ### Step 1: Install Anaconda
 
-&nbsp;
-
-> **Note:** The installation might fail if your computer username contains a space or special characters (æ, ø, å, ê, â, î, ô, û, ä, ö, ë, ï, ü, ÿ etc.). The easiest solution is to change your username (otherwise you need to install Anaconda on a path *not* containing your user name).
+<br />> **Note:** The installation might fail if your computer username contains a space or special characters (æ, ø, å, ê, â, î, ô, û, ä, ö, ë, ï, ü, ÿ etc.). The easiest solution is to change your username (otherwise you need to install Anaconda on a path *not* containing your user name).
 
 **Step 1a: Main**
 
@@ -53,6 +51,8 @@ To follow this course you need:
 
 ### Step 3: Install Git
 
+&nbsp;
+
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
 3. Run installer with all the custom settings
@@ -63,4 +63,4 @@ To follow this course you need:
 
 ### Next guide
 
-[Running Python in JupyterLab](/guides/jupyterlab)
+<br /> [Running Python in JupyterLab](/guides/jupyterlab)

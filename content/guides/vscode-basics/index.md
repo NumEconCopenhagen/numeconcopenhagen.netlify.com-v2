@@ -6,7 +6,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
 
 ### 1. Execute Python file
 
-The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
+<br />The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>O</kbd>
 2. **Create new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
@@ -27,6 +27,8 @@ The following step-by-step guide show you how to create a file, write some Pytho
 
 ### 2. Interactive session
 
+&nbsp;
+
  1. Selecet first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
  2. Select second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
  3. In the interactive window write `print(message)` and run with <kbd>Shift+Enter</kbd>
@@ -36,6 +38,8 @@ The following step-by-step guide show you how to create a file, write some Pytho
 &nbsp;
 
 ### 3. Find errors in your code
+
+&nbsp;
 
 1. **Write code**: Write the following lines of code:
     
@@ -54,7 +58,7 @@ The following step-by-step guide show you how to create a file, write some Pytho
 
 ### 4. Short-cuts
 
-Use short-cuts for _changing view_:
+<br />Use short-cuts for _changing view_:
 
 * New window: <kbd>Ctrl</kbd>+<kbd>N</kbd>
 * Open window: <kbd>Ctrl</kbd>+<kbd>O</kbd>
@@ -88,5 +92,7 @@ Use short-cuts for _changing view_:
 
 ### More infromation
 
-* [Debugging in VSCode](/guides/vscode-debug)
+&nbsp;
+
+[Debugging in VSCode](/guides/vscode-debug)
 * [Official guides from Microsoft](https://code.visualstudio.com/docs/getstarted/introvideos)

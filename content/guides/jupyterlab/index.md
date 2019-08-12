@@ -8,7 +8,7 @@ JupyterLab is an awesome way of combining text and code in the same framework. T
 
 ### 1. Starting JupyterLab
 
-_[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
+<br /> *For installation of JupyterLab see step 1b [here](/guides/python-setup/)*
 
 1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
 2. Paste in `jupyter lab` + <kbd>Enter</kbd>
@@ -21,7 +21,7 @@ _[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
 
 ### 2. Creating a notebook
 
-In the *Launcher* tab you create a new Jupyter notebook by pressing the *Python 3* bottom under *Notebook*. Notebooks consists of two types of cells:
+<br />In the *Launcher* tab you create a new Jupyter notebook by pressing the *Python 3* bottom under *Notebook*. Notebooks consists of two types of cells:
 
 1. Code cells with Python code
 2. Markdown cells with text (see the guide [Writing markdown](/guides/markdown))
@@ -51,13 +51,13 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 
 ### 3. Variable inspector
 
-A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
+<br />A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab-variable-inspector.gif" alt="jupyterlab-variable-inspector" width="80%"/><br /><br />
 
 ### 4. Shortcuts
 
-Other good-to-know standard short-cuts are:
+<br />Other good-to-know standard short-cuts are:
 
 * Only in command mode:
    * Create new cell above: <kbd>A</kbd>
@@ -126,4 +126,4 @@ Other good-to-know standard short-cuts are:
 
 ### Next guide
 
-[Running Python in VSCode](/guides/vscode-basics)
+<br />[Running Python in VSCode](/guides/vscode-basics)

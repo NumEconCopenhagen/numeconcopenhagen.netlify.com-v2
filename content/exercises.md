@@ -25,6 +25,8 @@ In **week 1-3** you should:
 
 ### Projects
 
+&nbsp;
+
 * [Project 1: Data analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/projects/DataProject.pdf)
 * [Project 2: Model analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/projects/ModelProject.pdf)
 * [Peer-feedback guide](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/projects/PeerFeedbackGuide.pdf) 
@@ -32,6 +34,8 @@ In **week 1-3** you should:
 &nbsp;
 
 ### Exam 2019
+
+&nbsp;
 
 * [Information](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/projects/ExamProject.pdf)
 * [Problem set](/exercises/exam_2019)

@@ -14,6 +14,8 @@ A code library with numerical models for undergraduate and graduate students of 
 
 ### Macro
 
+&nbsp;
+
 1. [Aiyagari](/numecon/Aiyagari)
 2. [ASAD](/numecon/ASAD)
 3. [OLG](/numecon/OLG)
@@ -23,6 +25,8 @@ A code library with numerical models for undergraduate and graduate students of 
 &nbsp;
 
 ### Micro
+
+&nbsp;
 
 1. [Budgetset](/numecon/01_Budgetset)
 2. [Preferences](/numecon/02_Preferences)
@@ -36,6 +40,8 @@ A code library with numerical models for undergraduate and graduate students of 
 &nbsp;
 
 ### Probability theory
+
+&nbsp;
 
 1. [Stochastic variables](/numecon/01_Stochastic_variables)
 2. [Conditional probability](/numecon/02_Conditional_probability)

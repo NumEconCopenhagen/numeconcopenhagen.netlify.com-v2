@@ -13,9 +13,7 @@ title: "Course plan"
   1. Solve a consumer problem
   2. Simulate an AS-AD model
    
-&nbsp;
-
-**Class:** Work on DataCamp courses (free access will be provided):
+<br />**Class:** Work on DataCamp courses (free access will be provided):
 
   1. Intro to Python for Data Science
   2. Intermediate Python for Data Science
