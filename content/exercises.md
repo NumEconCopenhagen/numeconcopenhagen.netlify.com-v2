@@ -13,6 +13,8 @@ In **week 1-3** you should:
 
 ### Problem sets
 
+&nbsp;
+
 * [Problem set 1](/exercises/problem_set_1)
 * [Problem set 2](/exercises/problem_set_2)
 * [Problem set 3](/exercises/problem_set_3)

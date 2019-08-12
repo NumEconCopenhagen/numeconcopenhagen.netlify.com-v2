@@ -49,6 +49,8 @@ The most important notebook commands are:
 
 The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
 
+&nbsp;
+
 ### 3. Variable inspector
 
 <br />A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:

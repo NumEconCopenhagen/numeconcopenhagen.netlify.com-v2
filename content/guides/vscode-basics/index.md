@@ -21,9 +21,9 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
 
-&nbsp;
+<br />**Note**: The bottom-left corner should say *Python 3.x 64-bit {'base': conda}* when you have a .py file open. Else click on what ever else it says and choose this. 
 
-**Note**: The bottom-left corner should say *Python 3.x 64-bit {'base': conda}* when you have a .py file open. Else click on what ever else it says and choose this. 
+&nbsp;
 
 ### 2. Interactive session
 
@@ -94,5 +94,5 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
 
 &nbsp;
 
-[Debugging in VSCode](/guides/vscode-debug)
+* [Debugging in VSCode](/guides/vscode-debug)
 * [Official guides from Microsoft](https://code.visualstudio.com/docs/getstarted/introvideos)
