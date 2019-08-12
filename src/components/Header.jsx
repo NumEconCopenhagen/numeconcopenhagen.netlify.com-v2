@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { createMuiTheme, withStyles, MuiThemeProvider } from '@material-ui/core/styles'
 import { AppBar, CssBaseline, Drawer, Link, List, ListItem, ListItemIcon, ListItemText, Toolbar, Typography, Icon } from '@material-ui/core'
 import { graphql, StaticQuery } from 'gatsby';
+import Wrapper from './Wrapper.jsx'
 
 const theme = createMuiTheme({
     palette: {
@@ -78,46 +79,48 @@ function Header(props) {
     `
     return (
         <StaticQuery query={query} render={data => (
-            <MuiThemeProvider theme={theme}>
-                <div className={classes.root}>
-                    <CssBaseline />
-                    <AppBar position="fixed" className={classes.appBar}>
-                        <Toolbar>
-                            <Typography variant="h6" color="inherit" noWrap style={{ fontFamily: 'VT323', fontSize: '32px' }}>
-                                <Link color='inherit' underline='none' href='/'>{data.allFile.edges[0].node.childContentYaml.title}</Link>
-                            </Typography>
-                        </Toolbar>
-                    </AppBar>
-                    <Drawer
-                        className={classes.drawer}
-                        variant="permanent"
-                        classes={{
-                            paper: classes.drawerPaper,
-                        }}
-                    >
-                        <div className={classes.toolbar} />
-                        <List>
-                            {data.allFile.edges[0].node.childContentYaml.urls.map((x) => (
-                                <ListItem button component="a" href={x.url} key={x.weight}>
-                                    <ListItemIcon>
-                                        <Icon>
-                                            {x.icon}
-                                        </Icon>
-                                    </ListItemIcon>
-                                    <ListItemText>
-                                        {x.title}
-                                    </ListItemText>
-                                </ListItem>
+            <Wrapper title={data.allFile.edges[0].node.childContentYaml.title}>
+                <MuiThemeProvider theme={theme}>
+                    <div className={classes.root}>
+                        <CssBaseline />
+                        <AppBar position="fixed" className={classes.appBar} style={{ marginTop: "0px", marginBottom: "0px" }}>
+                            <Toolbar>
+                                <Typography variant="h6" color="inherit" noWrap style={{ fontFamily: 'VT323', fontSize: '32px' }}>
+                                    <Link color='inherit' underline='none' href='/'>{data.allFile.edges[0].node.childContentYaml.title}</Link>
+                                </Typography>
+                            </Toolbar>
+                        </AppBar>
+                        <Drawer
+                            className={classes.drawer}
+                            variant="permanent"
+                            classes={{
+                                paper: classes.drawerPaper,
+                            }}
+                        >
+                            <div className={classes.toolbar} />
+                            <List>
+                                {data.allFile.edges[0].node.childContentYaml.urls.map((x) => (
+                                    <ListItem button component="a" href={x.url} key={x.weight}>
+                                        <ListItemIcon>
+                                            <Icon>
+                                                {x.icon}
+                                            </Icon>
+                                        </ListItemIcon>
+                                        <ListItemText>
+                                            {x.title}
+                                        </ListItemText>
+                                    </ListItem>
 
-                            ))}
-                        </List>
-                    </Drawer>
-                    <main className={classes.content}>
-                        <div className={classes.toolbar} />
-                        {children}
-                    </main>
-                </div>
-            </MuiThemeProvider>)
+                                ))}
+                            </List>
+                        </Drawer>
+                        <main className={classes.content}>
+                            <div className={classes.toolbar} />
+                            {children}
+                        </main>
+                    </div>
+                </MuiThemeProvider>
+            </Wrapper>)
         }
         />
     );
