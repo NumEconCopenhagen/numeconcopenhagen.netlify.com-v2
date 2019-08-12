@@ -3,6 +3,7 @@ title: "Welcome to Introduction to Programming and Numerical Analysis"
 ---
 ___
 
+<br />
 **Course responsible:** [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
@@ -17,12 +18,13 @@ The course is divided into four parts:
 2. **Working with data:** Fetch, combine, split-apply-combine, visualize.
 3. **Algorithms:** Pseudo code, algorithms, complexity, solve, symbolic.
 4. **Further perspectives:** Comprehensions, generators, vectorization, parallization, timing, Numba.
+<br />
 
-For details, see the **[course plan](/course-plan/)**, the lectures **[lectures](/lectures/)**, and the **[exercises](/exercises/)**.
+**Detail:** See the **[course plan](/course-plan/)**, the lectures **[lectures](/lectures/)**, and the **[exercises](/exercises/)**.
 
-All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. 
+**Datacamp:** All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. 
 
-The course is centered arround four GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
+**Github:** The course is centered arround four GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
 
 1. **[lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master?urlpath=lab)
 2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master?urlpath=lab)
@@ -33,6 +35,7 @@ The course is centered arround four GitHub repositories in **[NumEconCopenhagen]
 
 ### Self-study
 
+<br />
 You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
 
 &nbsp;
@@ -45,17 +48,20 @@ To follow this course you need:
 2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/))
 3. A **git enviroment**
 
+<br />
 In the first set of guides you learn how install and run Python:
 
 1. [Installing Python and VSCode](/guides/python-setup)
 2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](https://www.markdownguide.org/basic-syntax/))
 3. [Running Python in VSCode](/guides/vscode-basics)
 
+<br />
 In the second set of guides you learn how to search for answers and ask questions:
 
 1. [Searching for answers using Google and Stackoverflow](/guides/searching)
 2. [Asking questions using GitHub issues](/guides/github-issues)
 
+<br />
 In the third set of guides you learn how to use git:
 
 1. [Using Git in VSCode](/guides/vscode-git)
@@ -66,6 +72,7 @@ In the third set of guides you learn how to use git:
 
 ### Course Description
 
+<br />
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
 The course requires no prior experience with programming.
@@ -86,6 +93,7 @@ While the course only focus on programming in Python, you will also be equipped 
 
 ### Learning Outcomes
 
+<br />
 **Knowledge:**
 
 * Describe the differences between data types (e.g.  strings, booleans, integers and floats)
@@ -97,6 +105,7 @@ While the course only focus on programming in Python, you will also be equipped 
 * Explain how to use (pseudo) random numbers
 * Explain the notation of numerical algorithms
 
+<br />
 **Skills:**
 
 * Setup a Python enviroment
@@ -111,6 +120,7 @@ While the course only focus on programming in Python, you will also be equipped 
 * Use numerical optimizers
 * Formulate numerical algorithms from mathematical problems
 
+<br />
 **Competencies:**
 
 * Work collaboratively on code projects
@@ -125,6 +135,7 @@ While the course only focus on programming in Python, you will also be equipped 
 
 ### Other ressources
 
+<br />
 Some recommended online ressources for learning programming relevant to economics are:
 
 1. [Social Data Science](https://abjer.github.io/sds/)
@@ -140,3 +151,4 @@ Some recommended online ressources for learning programming relevant to economic
 11. [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 12. [Online MATLAB course for students of Economics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
 13. [Dynamic Programming](https://absalon.ku.dk/courses/25988)
+14. [Cheatsheet for matplotlib](https://github.com/rougier/matplotlib-cheatsheet)

@@ -4,10 +4,13 @@ title: "NumEcon"
 
 A code library with numerical models for undergraduate and graduate students of economics. The goal of NumEcon is to provide tools for solving canonical models in microeconomics and macroeconomics (and a bit of econometrics). This e.g. includes the consumer problem and Edgeworth and Koopman economies in micro, and the Ramse   y and OLG models in macro.
 
-> **[Code repository](https://github.com/NumEconCopenhagen/NumEcon)**
->
-> **[Notebook repository](https://github.com/NumEconCopenhagen/NumEconNotebook)** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
+**[Code repository](https://github.com/NumEconCopenhagen/NumEcon)**
 
+**[Notebook repository](https://github.com/NumEconCopenhagen/NumEconNotebook)** 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
+
+<br />
 ### Macro
 
 1. [Aiyagari](/numecon/Aiyagari)
@@ -16,6 +19,7 @@ A code library with numerical models for undergraduate and graduate students of 
 4. [Ramsey](/numecon/Ramsey)
 5. [Solow](/numecon/Solow)
 
+<br />
 ### Micro
 
 1. [Budgetset](/numecon/01_Budgetset)
@@ -27,6 +31,7 @@ A code library with numerical models for undergraduate and graduate students of 
 7. [Partial_equilibrium](/numecon/07_Partial_equilibrium)
 8. [Koopman](/numecon/08_Koopman)
 
+<br />
 ### Probability theory
 
 1. [Stochastic variables](/numecon/01_Stochastic_variables)

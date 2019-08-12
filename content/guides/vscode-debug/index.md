@@ -15,6 +15,7 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 4. **Continue:** <kbd>F5</kbd> (to next breakpoint)
 5. **Stop:** <kbd>Shift</kbd>+<kbd>F5</kbd>
 
+<br />
 **Tutorial:**
 
 1. Write the following code
@@ -47,6 +48,7 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 6. Open the debug console with <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd> 
 7. Try writing e.g. `a+2`
 
+<br />
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-debug/vscode-debug.gif" alt="vscode-debug" width="80%"/>
 <br /><br />
 

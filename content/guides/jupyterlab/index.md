@@ -13,6 +13,7 @@ _[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
 1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
 2. Paste in `jupyter lab` + <kbd>Enter</kbd>
 
+<br />
 Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab-open.gif" alt="jupyterlab-open" width="80%"/><br /><br />
@@ -26,6 +27,7 @@ In the *Launcher* tab you create a new Jupyter notebook by pressing the *Python 
 1. Code cells with Python code
 2. Markdown cells with text (see the guide [Writing markdown](/guides/markdown))
 
+<br />
 When inside a cell you are in `edit mode`, when not you are in `command mode`.
 
 The most important notebook commands are:
@@ -38,6 +40,7 @@ The most important notebook commands are:
 * Change to markdown cell: <kbd>M</kbd> (only in command mode)
 * Change to code cell: <kbd>Y</kbd> (only in command mode)
 
+<br />
 In the left-panel on JupyterLab you can e.g. access:
 
 1. File Browser: To open existing notebooks anywhere on your computer.
@@ -45,6 +48,7 @@ In the left-panel on JupyterLab you can e.g. access:
 3. Command Palette: To see a list of possible commands.
 4. Table of Contents: To see links to sections based on headings (#, ##, ###).
 
+<br />
 The **interface of JupyterLab** is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).
 
 The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
@@ -72,6 +76,7 @@ Other good-to-know standard short-cuts are:
 * Autocomplete (when writing code): <kbd>Tab</kbd>
 * Show tooltip: <kbd>Shift</kbd>+<kbd>Tab</kbd> (used when inside function)
   
+<br />
 **Advanced:** Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab paste in the followng:
 
 ```python
@@ -114,6 +119,7 @@ Other good-to-know standard short-cuts are:
 }
 ```
 
+<br />
 You now have access to the following short-cuts:
 
 1. Restart kernal and run all cells: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
@@ -122,6 +128,7 @@ You now have access to the following short-cuts:
 4. Move cell up: <kbd>Ctrl</kbd>+<kbd>&uparrow;</kbd> (only in command mode)
 5. Move cell down: <kbd>Ctrl</kbd>+<kbd>&downarrow;</kbd> (only in command mode)
 
+<br />
 ### Next guide
 
 [Running Python in VSCode](/guides/vscode-basics)

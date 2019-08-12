@@ -16,6 +16,7 @@ The **consav** package provides:
 * An **upper envelope** function for using the endogenous grid point method in non-convex models
 * Functions for interfacing easily with C++
 
+<br />
 All of the above is written to be **Numba compatible**.
 
 The repository **[ConsumptionSavingNotebooks](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks)** contains a number of examples on using the various tools and two models:
