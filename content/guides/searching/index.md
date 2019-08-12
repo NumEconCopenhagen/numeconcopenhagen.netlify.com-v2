@@ -6,7 +6,8 @@ Learning to program can be difficult and annoying. This guide aims at helping yo
 
 The far most important skill for an efficient programmer is to be good at googling because google answers _all_ your questions. 
 
-<br />
+&nbsp;
+
 ### An example
 
 Let us consider an example. Say, that I create the following string and store it in a variable.
@@ -62,7 +63,8 @@ Executing the code yields:
 'khisisastring'
 ```
 
-<br />
+&nbsp;
+
 ### Conclusion
 
 The best way to seek answers to your questions is to google the error codes. The forum [StackOverflow](https://stackOverflow.com) was created to answer questions related to programming.

@@ -28,7 +28,8 @@ This is basically how you provide changes to any software project on GitHub:
 6. Go to the forked repository 
 7. Create a pull request with a meaningful explanation
 
-<br />
+&nbsp;
+
 ### Notebooks
 
 The best way to contribute to [snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019) is by creating notebooks with code and examples of how to use it. See the `Simulating the Solow mode.ipynb` notebook ([link](https://github.com/NumEconCopenhagen/snippets-2019/blob/master/Simulating%20the%20Solow%20model.ipynb)) for the template you should follow.

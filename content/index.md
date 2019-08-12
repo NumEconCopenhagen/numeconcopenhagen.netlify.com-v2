@@ -5,9 +5,7 @@ ___
 
 <br />*"This course has been amazing. It feels like i'm weaponizing the text-book theory from other courses."* (student evaluation)
 
-&nbsp;
-
-**Course responsible:** [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
+<br />**Course responsible:** [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
@@ -45,18 +43,18 @@ The course is divided into four parts:
 2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/))
 3. A **git enviroment**
 
-<br />In the *first* set of guides you learn how install and run Python:
+<br />In the **first** set of guides you learn how install and run Python:
 
 1. [Installing Python and VSCode](/guides/python-setup)
 2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](https://www.markdownguide.org/basic-syntax/))
 3. [Running Python in VSCode](/guides/vscode-basics)
 
-<br />In the *second* set of guides you learn how to search for answers and ask questions:
+<br />In the **second** set of guides you learn how to search for answers and ask questions:
 
 1. [Searching for answers using Google and Stackoverflow](/guides/searching)
 2. [Asking questions using GitHub issues](/guides/github-issues)
 
-<br />In the **third* set of guides you learn how to use git:
+<br />In the **third** set of guides you learn how to use git:
 
 1. [Using Git in VSCode](/guides/vscode-git)
 2. [Submitting to snippets-2019](/guides/snippets)

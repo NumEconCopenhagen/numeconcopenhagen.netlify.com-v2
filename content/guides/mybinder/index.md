@@ -13,7 +13,8 @@ title: "Creating an interactive version of your code (mybinder.org)"
 5. Save the resulting mybinder.org link
 6. Share the mybinder.org link with others
 
-<br />
+&nbsp;
+
 ### Including dependencies
 
 To include depencies (e.g. _numpy_ and _matplotlib_) you repository need to have a folder called `/binder` in its root directory. This folder must contain a `environment.yml` file with lists of the dependencies. Your `projects-2019-YOURGROUPNAME` repository automatically includes this, and most likely you do not need to change it. For an example of a `environment.yml` file see [here](https://github.com/NumEconCopenhagen/numeconcopenhagen-2019/blob/master/binder/environment.yml). 

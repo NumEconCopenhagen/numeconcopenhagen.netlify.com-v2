@@ -21,7 +21,8 @@ The following step-by-step guide show you how to create a file, write some Pytho
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
 
-<br />
+&nbsp;
+
 **Note**: The bottom-left corner should say *Python 3.x 64-bit {'base': conda}* when you have a .py file open. Else click on what ever else it says and choose this. 
 
 ### 2. Interactive session
@@ -32,7 +33,8 @@ The following step-by-step guide show you how to create a file, write some Pytho
  
  *Note:* You can also select multiple lines to run.
 
-<br />
+&nbsp;
+
 ### 3. Find errors in your code
 
 1. **Write code**: Write the following lines of code:
@@ -48,7 +50,8 @@ The following step-by-step guide show you how to create a file, write some Pytho
 4. Move the cursor to a line in the python file
 5. Find next error: <kbd>F8</kbd> 
 
-<br />
+&nbsp;
+
 ### 4. Short-cuts
 
 Use short-cuts for _changing view_:
@@ -63,8 +66,7 @@ Use short-cuts for _changing view_:
 * Zoom: <kbd>Ctrl</kbd>+<kbd>+</kbd> / <kbd>Ctrl</kbd>+<kbd>-</kbd>
 * Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd>,<kbd>Z</kbd> 
 
-<br />
-Use smart short cuts for _editing_:
+<br />Use smart short cuts for _editing_:
 
 * Move current line: <kbd>Alt</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>
 * Copy current line: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>
@@ -78,10 +80,11 @@ Use smart short cuts for _editing_:
 * Select multiple occurances: <kbd>Ctrl</kbd>+<kbd>D</kbd> (undo: <kbd>Ctrl</kbd>+<kbd>U</kbd>)
 * Select columns: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>
 
-<br />
-**Change settings** <kbd>Ctrl</kbd>+<kbd>,</kbd>
+<br />**Change settings** <kbd>Ctrl</kbd>+<kbd>,</kbd>
 
 **Change short cuts?** <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>S</kbd>
+
+&nbsp;
 
 ### More infromation
 
