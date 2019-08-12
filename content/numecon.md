@@ -10,7 +10,8 @@ A code library with numerical models for undergraduate and graduate students of 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
-<br />
+&nbsp;
+
 ### Macro
 
 1. [Aiyagari](/numecon/Aiyagari)
@@ -19,7 +20,8 @@ A code library with numerical models for undergraduate and graduate students of 
 4. [Ramsey](/numecon/Ramsey)
 5. [Solow](/numecon/Solow)
 
-<br />
+&nbsp;
+
 ### Micro
 
 1. [Budgetset](/numecon/01_Budgetset)
@@ -31,7 +33,8 @@ A code library with numerical models for undergraduate and graduate students of 
 7. [Partial_equilibrium](/numecon/07_Partial_equilibrium)
 8. [Koopman](/numecon/08_Koopman)
 
-<br />
+&nbsp;
+
 ### Probability theory
 
 1. [Stochastic variables](/numecon/01_Stochastic_variables)

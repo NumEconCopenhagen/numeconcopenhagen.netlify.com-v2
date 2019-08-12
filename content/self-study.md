@@ -14,7 +14,8 @@ You can also go through this course as self-study.
 4. Follow the download guide below to download all lectures and exercises.
 5. Go through the lectures and exercises as prescribed in the [course plan](/course-plan/).
 
-<br />
+&nbsp;
+
 **Download guide:**
 
 1. Open VScode

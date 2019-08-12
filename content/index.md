@@ -35,15 +35,13 @@ The course is divided into four parts:
 
 &nbsp;
 
-### Self-study
-
-&nbsp;
-
-You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
+**Self-study:** You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
 
 &nbsp;
 
 ### Guides
+
+&nbsp;
 
 To follow this course you need:
 
@@ -144,8 +142,6 @@ While the course only focus on programming in Python, you will also be equipped 
 &nbsp;
 
 ### Other ressources
-
-&nbsp;
 
 Some recommended online ressources for learning programming relevant to economics are:
 
