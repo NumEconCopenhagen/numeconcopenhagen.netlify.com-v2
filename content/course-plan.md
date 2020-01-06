@@ -62,7 +62,17 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 6: Working with Data: Load/save and structure data
+### Week 6: Fundamentals: Workflow and debugging
+
+&nbsp;
+
+**Lecture:** Recap and overview of what you have learned so far.
+
+**Class:** Work on your inaugural project
+
+&nbsp;
+
+### Week 7: Working with Data: Load/save and structure data
 
 &nbsp;
 
@@ -72,7 +82,7 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 7: Working with Data: Basic data analysis
+### Week 8: Working with Data: Basic data analysis
 
 &nbsp;
 
@@ -82,15 +92,6 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 8:  Supervision on data analysis project
-
-&nbsp;
-
-**Lecture:** Supervision on your data analysis project
-
-**Class:** Work on your data analysis project
-
-&nbsp;
 
 ### Week 9: Algorithms: Searching and sorting
 
@@ -98,9 +99,10 @@ title: "Course plan"
 
 **Lecture:** You will learn how to write **pseudo code** and a bit about **computational complexity** (big-O notion). You will learn learn about **functional recursion** and some illustrative **search** (sequential, binary) and **sort** (bubble, insertion, quick) algorithms.
 
-**Class:** Problem Set 5: Writing your own algorithms
+**Class:** Work on your data analysis project
 
 &nbsp;
+
 
 ### Week 10: Algorithms: Solving equations
 
@@ -108,7 +110,7 @@ title: "Course plan"
 
 **Lecture:** You will learn about working with matrices and linear algebra (**scipy.linalg**), including solving systems of linear equations. You will learn to find roots of linear and non-linear equations both numerically (**scipy.optimize**) and symbolically (**sympy**).
 
-**Class:** Problem Set 6: Solving the Solow Model
+**Class:** Problem Set 5: Writing your own algorithms
 
 &nbsp;
 
@@ -117,11 +119,22 @@ title: "Course plan"
 &nbsp;
 
 **Lecture:** You will learn to solve non-convex multi-dimensional optimization problems using numerical optimization with multistart and nesting (**scipy.optimize**). You will learn simple function approximation using linear interpolation (**scipy.interp**). 
-* **Class**: Problem Set 7: Solving the consumer problem with income risk
+
+**Class:** Problem Set 6: Solving the Solow Model
 
 &nbsp;
 
-### Week 12: Further Perspectives: The need for speed
+### Week 12
+
+&nbsp;
+
+**Lecture:** Easter holiday
+
+**Class**: Problem Set 7: Solving the consumer problem with income risk
+
+&nbsp;
+
+### Week 13: Further Perspectives: The need for speed
 
 &nbsp;
 
@@ -131,19 +144,21 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 13: Further Perspectives: R and MATLAB
+### Week 14
 
 &nbsp;
 
-**Lecture:** Two guest lectures will introduce you to the programming languages **MATLAB** (*taught by [Thomas Høgholm Jørgensen](http://www.tjeconomics.com/)*) and **R** (*taught by [Rémi Piatek](http://web.econ.ku.dk/piatek/)*).
+**Lecture:** Work on your model analysis project
+
 **Class:** Work on your model analysis project
 
 &nbsp;
 
-### Week 14: Further Perspectives: Julia
+
+### Week 15: Further Perspectives: Other programming languages
 
 &nbsp;
 
-**Lecture:** A guest lecture will introduce you to the (up-and-coming) programming language **Julia** (*taught by [Andreas Noack Jensen](https://github.com/andreasnoack)*).
+**Lecture:** We will discuss alternative programming languages such as MATLAB, R, C++ and Julia
 
-**Class:** Feedback on your model analysis project
+**Class:** Polish your exam portfolio

@@ -16,10 +16,3 @@ In the **first set** of guides you learn how install and run Python:
 <br />In the **third set** of guides you learn how to use git:
 
 1. [Using Git in VSCode](/guides/vscode-git)
-2. [Submitting to snippets-2019](/guides/snippets)
-3. [Creating an interactive version of your code](/guides/mybinder)
-
-<br />**Extra guides:**
-
-1. [Debugging in VSCode](/guides/vscode-debug)
-2. [Creating a python package](/guides/python-package)

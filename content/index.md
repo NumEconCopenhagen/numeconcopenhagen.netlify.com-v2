@@ -26,10 +26,9 @@ The course is divided into four parts:
 
 **Github:** The course is centered arround four GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
 
-1. **[lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master?urlpath=lab)
-2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master?urlpath=lab)
-3. **[snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019)**: Useful code examples [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/snippets-2019/master?urlpath=lab)
-4. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
+1. **[lectures-2020](https://github.com/NumEconCopenhagen/lectures-2020)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2020/master?urlpath=lab)
+2. **[exercises-2020](https://github.com/NumEconCopenhagen/exercises-2020)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2020/master?urlpath=lab)
+3. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
 <br />**Self-study:** You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
 
@@ -57,8 +56,6 @@ The course is divided into four parts:
 <br />In the **third** set of guides you learn how to use git:
 
 1. [Using Git in VSCode](/guides/vscode-git)
-2. [Submitting to snippets-2019](/guides/snippets)
-3. [Creating an interactive version of your code](/guides/mybinder)
 
 &nbsp;
 
@@ -78,7 +75,7 @@ You will get hands-on experience with applying the above techniques to solve wel
 
 While the course only focus on programming in Python, you will also be equipped to start learning other programming languages (such as MATLAB, R, Julia or even C/C++) on your own.
 
-*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019).*
+*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2019-2020).*
 
 &nbsp;
 
