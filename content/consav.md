@@ -2,6 +2,8 @@
 title: "ConSav - Consumption-Saving Models"
 ---
 
+&nbsp;
+
 A code library for solving and simulating consumption-saving models in Python using Numba JIT compiled functions. 
 
 > **[Code repository](https://github.com/NumEconCopenhagen/ConsumptionSaving)**

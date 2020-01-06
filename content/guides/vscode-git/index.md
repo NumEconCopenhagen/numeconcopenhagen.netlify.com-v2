@@ -2,6 +2,8 @@
 title: "Using git in VSCode"
 ---
 
+&nbsp;
+
 This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). The purpose of git is to allow you to easily share your code with collaborators and track the changes each of you make.
 
 **Note:** We assume you have already signed up for GitHub and installed git on your computer. Otherwise, see step 2 in this [guide](/guides/python-setup/).

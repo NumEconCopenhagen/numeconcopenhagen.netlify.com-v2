@@ -2,7 +2,6 @@
 title: "Searching for answers using Google and StackOverflow"
 ---
 
-
 &nbsp;
 
 Learning to program can be difficult and annoying. This guide aims at helping you to help yourself. First of all, learning to program does not mean that you should remember all features of a language, but rather that you are able to quickly solve the problems you come across. 
@@ -57,6 +56,7 @@ As we see the first example seems rather advanced, so we continue to the second 
   s2 = "k" + s[1:]
   s2
   ```
+  <br />
 
 Executing the code yields:
 

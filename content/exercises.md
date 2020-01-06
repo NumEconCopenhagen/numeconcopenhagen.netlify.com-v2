@@ -2,6 +2,8 @@
 title: "Exercises"
 ---
 
+&nbsp;
+
 In the following you will find the exercises for the classes. 
 
 In **week 1-3** you should:

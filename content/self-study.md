@@ -2,6 +2,8 @@
 title: "Self-study"
 ---
 
+&nbsp;
+
 You can also go through this course as self-study. 
 
 *If you have never programmed before, the [DataCamp](https://www.datacamp.com/home) courses is the most gentle introduction to Python you can get. It is worth paying for.*
