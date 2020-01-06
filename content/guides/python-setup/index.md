@@ -2,6 +2,8 @@
 title: "Installing Python and VSCode"
 ---
 
+&nbsp;
+
 To follow this course you need:
 
 1. A **Python enviroment** (we will use [Anaconda](https://www.anaconda.com))
@@ -27,7 +29,7 @@ To follow this course you need:
 
 1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
 2. Paste in `conda install -c conda-forge jupyterlab nodejs ipympl` + <kbd>Enter</kbd>
-3. Paste in `jupyter labextension install @jupyterlab/toc jupyter-matplotlib` + <kbd>Enter</kbd>
+3. Paste in `jupyter labextension install @jupyterlab/toc jupyter-matplotlib jupyter-widgets/jupyterlab-manager` + <kbd>Enter</kbd>
 
 &nbsp;
 

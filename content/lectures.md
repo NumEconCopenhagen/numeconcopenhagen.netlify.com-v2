@@ -8,7 +8,7 @@ title: "Lectures"
 * [Lecture 3 - Fundamentals: Optimize print and plot](/lectures/Optimize_print_and_plot)
 * [Lecture 4 - Fundamentals: Random numbers and simulation](/lectures/Random_numbers_and_simulation)
 * [Lecture 5 - Fundamentals: Workflow and debugging](/lectures/Workflow_and_debugging)
-* [Lecture 6 - Fundamentals: Workflow and debugging](/lectures/Recap_and_overview)
+* [Lecture 6 - Fundamentals: Recap and overview](/lectures/Recap_and_overview)
 * [Lecture 7 - Working with data: Load save and structure data](/lectures/Load_save_and_structure_data)
 * [Lecture 8 - Working with data: Basic data analysis](/lectures/Basic_data_analysis) ([fun applications](/lectures/Fun_applications))
 * [Lecture 9 - Algorithms: Searching and sorting](/lectures/Searching_and_sorting)

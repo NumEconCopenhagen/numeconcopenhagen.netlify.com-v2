@@ -2,6 +2,9 @@
 title: "Searching for answers using Google and StackOverflow"
 ---
 
+
+&nbsp;
+
 Learning to program can be difficult and annoying. This guide aims at helping you to help yourself. First of all, learning to program does not mean that you should remember all features of a language, but rather that you are able to quickly solve the problems you come across. 
 
 The far most important skill for an efficient programmer is to be good at googling because google answers _all_ your questions. 
@@ -10,28 +13,32 @@ The far most important skill for an efficient programmer is to be good at googli
 
 ### An example
 
+&nbsp;
+
 Let us consider an example. Say, that I create the following string and store it in a variable.
 
-```python
-# Creating a string, and stores is as `s`
-s = "thisisastring"
+  ```python
+  # Creating a string, and stores is as `s`
+  s = "thisisastring"
 
-# Let's try to replace `t` at index 0 with `k` and see what happens
-s[0] = "k"
-```
+  # Let's try to replace `t` at index 0 with `k` and see what happens
+  s[0] = "k"
+  ```
+  <br />
 
 This results in the following:
 
-```python
->>> # Creating a string, and stores is as `s`
-... s = "thisisastring"
->>>
->>> # Let's try to replace `t` at index 0 with `k` and see what happens
-... s[0] = "k"
-Traceback (most recent call last):
-  File "<stdin>", line 2, in <module>
-TypeError: 'str' object does not support item assignment
-```
+  ```python
+  >>> # Creating a string, and stores is as `s`
+  ... s = "thisisastring"
+  >>>
+  >>> # Let's try to replace `t` at index 0 with `k` and see what happens
+  ... s[0] = "k"
+  Traceback (most recent call last):
+    File "<stdin>", line 2, in <module>
+  TypeError: 'str' object does not support item assignment
+  ```
+  <br />
 
 Python tells us that we made a `TypeError`, and that `str` objects doesn't support item assignment. At first, these seems not very helpful because without prior programming experience this does not make sense. But let us try to see what happens if copy the line, and see what google suggest us. 
 
@@ -41,31 +48,34 @@ Python tells us that we made a `TypeError`, and that `str` objects doesn't suppo
 
 As we see the first example seems rather advanced, so we continue to the second suggestion. Here we see that _Python_ doesn't allow us to change already created strings, but we are able to create a new string from slices of strings. Thus, this would result in what we tried to achieve.
 
-```python
-# Assign `thisisastring` to the variable `s`
-s = "thisisastring"
+  ```python
+  # Assign `thisisastring` to the variable `s`
+  s = "thisisastring"
 
-# Concatenate "k" with all characters from the string s from index 1 
-# and until the end of the string to the variable `s2`
-s2 = "k" + s[1:]
-s2
-```
+  # Concatenate "k" with all characters from the string s from index 1 
+  # and until the end of the string to the variable `s2`
+  s2 = "k" + s[1:]
+  s2
+  ```
 
 Executing the code yields:
 
-```python
->>> s = "thisisastring"
->>>
->>> # Concatenate "k" with all characters from the string s from index 1 
->>> # and until the end of the string to the variable `s2`
-... s2 = "k" + s[1:]
->>> s2
-'khisisastring'
-```
+  ```python
+  >>> s = "thisisastring"
+  >>>
+  >>> # Concatenate "k" with all characters from the string s from index 1 
+  >>> # and until the end of the string to the variable `s2`
+  ... s2 = "k" + s[1:]
+  >>> s2
+  'khisisastring'
+  ```
+  <br />
 
 &nbsp;
 
 ### Conclusion
+
+&nbsp;
 
 The best way to seek answers to your questions is to google the error codes. The forum [StackOverflow](https://stackOverflow.com) was created to answer questions related to programming.
 

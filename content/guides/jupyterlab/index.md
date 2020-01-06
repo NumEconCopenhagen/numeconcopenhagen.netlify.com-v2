@@ -2,6 +2,9 @@
 title: "Running Python in JupyterLab"
 ---
 
+
+&nbsp;
+
 JupyterLab is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab.gif" alt="jupyterlab" width="80%"/><br /><br />
@@ -18,6 +21,8 @@ JupyterLab is an awesome way of combining text and code in the same framework. T
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab-open.gif" alt="jupyterlab-open" width="80%"/><br /><br />
 
 > **Note:** Despite JupyterLab is running in a browser, it is running offline (the path is something like *localhos:8888/lab*).
+
+&nbsp;
 
 ### 2. Creating a notebook
 
@@ -74,7 +79,11 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 * Autocomplete (when writing code): <kbd>Tab</kbd>
 * Show tooltip: <kbd>Shift</kbd>+<kbd>Tab</kbd> (used when inside function)
   
-<br />**Advanced:** Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab paste in the followng:
+<br />**Advanced:** Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. 
+
+1. Open 'Settings: Advanced Settings Editor
+2. Open 'Keyboard Shortcuts'
+3. In the `User Overrides` tab paste in the followng:
 
 ```python
 {
