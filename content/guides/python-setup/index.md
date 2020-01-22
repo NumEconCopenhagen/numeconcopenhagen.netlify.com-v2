@@ -21,7 +21,7 @@ To follow this course you need:
 **Step 1a: Main**
 
 1. Download Anaconda Python 3.7 from <https://www.anaconda.com/download/>
-2. Run the installer (custom settings are fine)
+2. Run the installer (default settings are fine)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ To follow this course you need:
 &nbsp;
 
 1. Download VSCode from <https://code.visualstudio.com/>
-2. Run the installer (custom settings are fine)
+2. Run the installer (default settings are fine)
 3. Open **VSCode**
 4. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 5. Paste in `Extensions: Install Extensions` + <kbd>Enter</kbd>

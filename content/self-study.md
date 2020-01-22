@@ -10,7 +10,7 @@ You can also go through this course as self-study.
 
 **After that:**
 
-1. Read the [introduction slides](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2019/blob/master/01/01_Introduction.pdf).
+1. Read the [introduction slides](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2020/blob/master/01/01_Introduction.pdf).
 2. Follow the first set of [guides](/guides/).
 3. Read through the second set of [guides](/guides/).
 4. Follow the download guide below to download all lectures and exercises.
