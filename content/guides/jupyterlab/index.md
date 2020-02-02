@@ -83,45 +83,47 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 
 1. Open 'Settings: Advanced Settings Editor
 2. Open 'Keyboard Shortcuts'
-3. In the `User Overrides` tab paste in the followng:
+3. In the `User Preferences` tab paste in the followng:
 
 ```python
 {
-    "runmenu:restart-and-run-all": {
-      "selector": "[data-jp-code-runner]",        
-      "command": "runmenu:restart-and-run-all",
-      "keys": [
-        "Ctrl Space"
-      ]
-    },     
-    "notebook:move-cell-up": {
-      "selector": ".jp-Notebook:focus",
-      "command": "notebook:move-cell-up",
-      "keys": [
-        "Ctrl ArrowUp"
-      ]
-    },
-    "notebook:move-cell-down": {
-      "selector": ".jp-Notebook:focus",
-      "command": "notebook:move-cell-down",
-      "keys": [
-        "Ctrl ArrowDown"
-      ]
-    }, 
-    "application:toggle-presentation-mode": {
-      "selector": "body",
-      "command": "application:toggle-presentation-mode",
-      "keys": [
-        "Ctrl Shift P"
-      ]
-    }, 
-    "notebook:line-numbering": {
-      "selector": ".jp-Notebook.jp-mod-commandMode",        
-      "command": "viewmenu:line-numbering",
-      "keys": [
-        "Ctrl Shift K"
-      ]
-    }    
+    "shortcuts": [
+        {
+            "command": "runmenu:restart-and-run-all",
+            "keys": [
+                "Ctrl Space"
+            ],
+            "selector": "[data-jp-code-runner]"
+        },
+        {
+            "command": "notebook:move-cell-up",
+            "keys": [
+                "Ctrl ArrowUp"
+            ],
+            "selector": ".jp-Notebook:focus"
+        },
+        {
+            "command": "notebook:move-cell-down",
+            "keys": [
+                "Ctrl ArrowDown"
+            ],
+            "selector": ".jp-Notebook:focus"
+        },
+        {
+            "command": "application:toggle-presentation-mode",
+            "keys": [
+                "Ctrl Shift P"
+            ],
+            "selector": "body"
+        },
+        {
+            "command": "viewmenu:line-numbering",
+            "keys": [
+                "Ctrl Shift K"
+            ],
+            "selector": ".jp-Notebook.jp-mod-commandMode"
+        }
+    ]
 }
 ```
 
