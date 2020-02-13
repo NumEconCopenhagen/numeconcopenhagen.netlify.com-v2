@@ -62,7 +62,7 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 6: Fundamentals: Workflow and debugging
+### Week 6: Fundamentals: Recap and overview
 
 &nbsp;
 
