@@ -44,7 +44,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
 
 ### 2. Execute Python file
 
-<br />The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
+<br />The following step-by-step guide show you how to create a file, write some Python code, and execture it.
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>O</kbd>
 2. **Create new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
