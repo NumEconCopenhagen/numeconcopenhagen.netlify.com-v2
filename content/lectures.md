@@ -10,7 +10,7 @@ title: "Lectures"
 * [Lecture 5 - Fundamentals: Workflow and debugging](/lectures/Workflow_and_debugging)
 * [Lecture 6 - Fundamentals: Recap and overview](/lectures/Recap_and_overview)
 * [Lecture 7 - Working with data: Load save and structure data](/lectures/Load_save_and_structure_data)
-* [Lecture 8 - Working with data: Basic data analysis](/lectures/Basic_data_analysis) ([fun applications](/lectures/Fun_applications))
+* [Lecture 8 - Working with data: Basic data analysis](/lectures/Basic_data_analysis)
 * [Lecture 9 - Algorithms: Searching and sorting](/lectures/Searching_and_sorting)
 * [Lecture 10 - Algorithms: Solving equations](/lectures/Solving_equations)
 * [Lecture 11 - Algorithms: Numerical optimization](/lectures/Numerical_optimization)

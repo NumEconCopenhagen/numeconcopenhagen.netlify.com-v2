@@ -42,9 +42,8 @@ To follow this course you need:
 3. Open **VSCode**
 4. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 5. Paste in `Extensions: Install Extensions` + <kbd>Enter</kbd>
-6. In the left panel: Search for and install the following extensions (if not already installed):
+6. In the left panel: Search for and install the following extension (if not already installed):
     * Anaconda Extensions Pack
-    * Python  
 7. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
 8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above
 9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
