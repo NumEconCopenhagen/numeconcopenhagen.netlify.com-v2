@@ -76,7 +76,7 @@ title: "Course plan"
 
 &nbsp;
 
-**Lecture:** You will learn to **load and save data** both to and from offline sources (e.g. CSV or Excel). You will learn about **pandas series and dataframes**, and how to clean, rename, structure and index your data. *Taugth by [Anders Munk-Nielsen](http://web.econ.ku.dk/munk-nielsen/default.htm)*.
+**Lecture:** You will learn to **load and save data** both to and from offline sources (e.g. CSV or Excel). You will learn about **pandas series and dataframes**, and how to clean, rename, structure and index your data.
 
 **Class:** Problem Set 3: Loading and structuring data from Denmark Statistics
 
@@ -86,7 +86,7 @@ title: "Course plan"
 
 &nbsp;
 
-**Lecture:** You will learn how to **combine** (join and concatenate) datasets, **download online datasets** (throguh an API), and use **split-apply-combine** to calculate group-level statistics and make group-level plots. *Taugth by [Anders Munk-Nielsen](http://web.econ.ku.dk/munk-nielsen/default.htm)*.
+**Lecture:** You will learn how to **combine** (join and concatenate) datasets, **download online datasets** (throguh an API), and use **split-apply-combine** to calculate group-level statistics and make group-level plots.
 
 **Class:** Problem Set 4: Analyzing data form Denmark Statistics
 
