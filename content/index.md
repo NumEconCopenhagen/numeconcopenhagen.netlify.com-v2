@@ -31,7 +31,7 @@ The course is divided into four parts:
 3. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
 <br />**Self-study:** You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
-<br />**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks)**
+<br />**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks/blob/master/DynamicProgramming/README.md#mini-course-in-dynamic-programming)**
 
 &nbsp;
 
