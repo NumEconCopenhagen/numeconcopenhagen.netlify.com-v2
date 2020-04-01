@@ -138,7 +138,7 @@ title: "Course plan"
 
 &nbsp;
 
-**Lecture:** You will learn how to time your code and locate its bottlenecks. You will learn how to alleviate such bottlenecks using techniques such as **comprehensions**, **generators**, **vectorization** and **parallelization**. You will be introduced to how  to use the **Numba** library to speed-up your code. You will hear about the fundamental computational costs of mathematical operations and memory management (caching), and see how to call programs written in **C++** (ctypes) for optimal speed.
+**Lecture:** You will learn how to time your code and locate its bottlenecks. You will learn how to alleviate such bottlenecks using techniques such as **comprehensions**, **generators**, **vectorization** and **parallelization**. You will be introduced to how  to use the **Numba** library to speed-up your code. You will hear about the fundamental computational costs of mathematical operations and memory management (caching).
 
 **Class:** Work on your model analysis project
 
