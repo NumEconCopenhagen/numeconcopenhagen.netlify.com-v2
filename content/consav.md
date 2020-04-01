@@ -10,6 +10,8 @@ A code library for solving and simulating consumption-saving models in Python us
 > 
 > **[Notebook repository](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks)**
 
+It contains a **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks)**
+
 The **consav** package provides:
 
 * A **Model** class with predefined methods for e.g. saving and loading

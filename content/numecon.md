@@ -18,11 +18,10 @@ A code library with numerical models for undergraduate and graduate students of 
 
 &nbsp;
 
-1. [Aiyagari](/numecon/Aiyagari)
-2. [ASAD](/numecon/ASAD)
-3. [OLG](/numecon/OLG)
-4. [Ramsey](/numecon/Ramsey)
-5. [Solow](/numecon/Solow)
+1. [ASAD](/numecon/ASAD)
+2. [OLG](/numecon/OLG)
+3. [Ramsey](/numecon/Ramsey)
+4. [Solow](/numecon/Solow)
 
 &nbsp;
 

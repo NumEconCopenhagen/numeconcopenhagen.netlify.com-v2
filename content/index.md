@@ -31,6 +31,7 @@ The course is divided into four parts:
 3. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
 <br />**Self-study:** You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
+<br />**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks)**
 
 &nbsp;
 
@@ -121,7 +122,9 @@ While the course only focus on programming in Python, you will also be equipped 
 
 ### Other ressources
 
-<br />Some recommended online ressources for learning programming relevant to economics are:
+<br />**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks)**
+
+**More:** Some recommended online ressources for learning programming relevant to economics are:
 
 1. [Social Data Science](https://abjer.github.io/sds/)
 2. [Quantitative Economics](https://lectures.quantecon.org/)
@@ -135,5 +138,4 @@ While the course only focus on programming in Python, you will also be equipped 
 10. [Lecture notes by Wouter J. den Haan](http://www.wouterdenhaan.com/notes.htm)
 11. [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 12. [Online MATLAB course for students of Economics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
-13. [Dynamic Programming](https://absalon.ku.dk/courses/25988)
-14. [Cheatsheet for matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
+13. [Cheatsheet for matplotlib](https://github.com/rougier/matplotlib-cheatsheet)

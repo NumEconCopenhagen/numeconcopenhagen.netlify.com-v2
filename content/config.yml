@@ -112,9 +112,6 @@ notebook:
     notebooks:
       - owner: "NumEconCopenhagen"
         repository: "NumEconNotebooks"
-        path: "macro/Aiyagari.ipynb"
-      - owner: "NumEconCopenhagen"
-        repository: "NumEconNotebooks"
         path: "macro/ASAD.ipynb"
       - owner: "NumEconCopenhagen"
         repository: "NumEconNotebooks"
