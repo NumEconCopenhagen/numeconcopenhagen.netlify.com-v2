@@ -16,7 +16,7 @@ You can also go through this course as self-study.
 4. Follow the download guide below to download all lectures and exercises.
 5. Go through the lectures and exercises as prescribed in the [course plan](/course-plan/).
 
-**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks/blob/master/DynamicProgramming/README.md#mini-course-in-dynamic-programming)**
+<br />**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks/blob/master/DynamicProgramming/README.md#mini-course-in-dynamic-programming)**
 
 <br />**Download guide:**
 
