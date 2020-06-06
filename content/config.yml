@@ -64,6 +64,12 @@ notebook:
       - owner: "NumEconCopenhagen"
         repository: "lectures-2020"
         path: "exam/solution_2019.ipynb"
+      - owner: "NumEconCopenhagen"
+        repository: "lectures-2020"
+        path: "exam/exam_2020.ipynb"
+      - owner: "NumEconCopenhagen"
+        repository: "lectures-2020"
+        path: "exam/solution_2020.ipynb"        
 
   - path: "/lectures/"
     notebooks:
