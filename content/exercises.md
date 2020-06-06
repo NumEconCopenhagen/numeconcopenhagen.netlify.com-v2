@@ -46,5 +46,5 @@ In **week 1-3** you should:
 * [Information](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2020/blob/master/projects/ExamProject.pdf)
 * [Problem set 2019](/exercises/exam_2019)
 * [Suggested solution 2019](/exercises/solution_2019)
-* [Problem set 2019](/exercises/exam_2020)
-* [Suggested solution 2019](/exercises/solution_2020)
+* [Problem set 2020](/exercises/exam_2020)
+* [Suggested solution 2020](/exercises/solution_2020)
