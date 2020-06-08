@@ -39,7 +39,7 @@ In **week 1-3** you should:
 
 &nbsp;
 
-### Exam 2019
+### Exam
 
 &nbsp;
 
