@@ -62,11 +62,11 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 6: Fundamentals: Recap and overview
+### Week 6: Fundamentals: Examples and overview
 
 &nbsp;
 
-**Lecture:** Recap and overview of what you have learned so far.
+**Lecture:** You will see more examples of economic models and get an overview of what you have learned so far.
 
 **Class:** Work on your inaugural project
 
@@ -93,72 +93,74 @@ title: "Course plan"
 &nbsp;
 
 
-### Week 9: Algorithms: Searching and sorting
+### Week 9
 
 &nbsp;
 
-**Lecture:** You will learn how to write **pseudo code** and a bit about **computational complexity** (big-O notion). You will learn learn about **functional recursion** and some illustrative **search** (sequential, binary) and **sort** (bubble, insertion, quick) algorithms.
+**Lecture:** Easter holiday
 
 **Class:** Work on your data analysis project
 
 &nbsp;
 
 
-### Week 10: Algorithms: Solving equations
+### Week 10: Algorithms: Searching and sorting
 
 &nbsp;
 
-**Lecture:** You will learn about working with matrices and linear algebra (**scipy.linalg**), including solving systems of linear equations. You will learn to find roots of linear and non-linear equations both numerically (**scipy.optimize**) and symbolically (**sympy**).
+**Lecture:** You will learn how to write **pseudo code** and a bit about **computational complexity** (big-O notion). You will learn learn about **functional recursion** and some illustrative **search** (sequential, binary) and **sort** (bubble, insertion, quick) algorithms.
 
 **Class:** Problem Set 5: Writing your own algorithms
 
 &nbsp;
 
-### Week 11: Algorithms: Numerical optimization
+### Week 11: Algorithms: Solving equations
 
 &nbsp;
 
-**Lecture:** You will learn to solve non-convex multi-dimensional optimization problems using numerical optimization with multistart and nesting (**scipy.optimize**). You will learn simple function approximation using linear interpolation (**scipy.interp**). 
+**Lecture:** You will learn about working with matrices and linear algebra (**scipy.linalg**), including solving systems of linear equations. You will learn to find roots of linear and non-linear equations both numerically (**scipy.optimize**) and symbolically (**sympy**).
 
 **Class:** Problem Set 6: Solving the Solow Model
 
 &nbsp;
 
-### Week 12
+### Week 12: Algorithms: Numerical optimization
 
 &nbsp;
 
-**Lecture:** Easter holiday
+**Lecture:** You will learn to solve non-convex multi-dimensional optimization problems using numerical optimization with multistart and nesting (**scipy.optimize**). You will learn simple function approximation using linear interpolation (**scipy.interp**). 
 
 **Class**: Problem Set 7: Solving the consumer problem with income risk
 
 &nbsp;
 
-### Week 13: Further Perspectives: The need for speed
+### Week 13: Further Perspectives: Canonical Economic Models
+
+&nbsp;
+
+**Lecture:** You will see how to apply to tools and methods you have learned to solve canonical economic models.
+
+**Class:** Work on your model analysis project
+
+&nbsp;
+
+### Week 14: Further Perspectives: Agent Based Models
+
+&nbsp;
+
+**Lecture:** You will see how to apply to tools and methods you have learned to solve agent based models.
+
+**Class:** Work on your model analysis project
+
+&nbsp;
+
+### Week 15: Further Perspectives: The need for speed
 
 &nbsp;
 
 **Lecture:** You will learn how to time your code and locate its bottlenecks. You will learn how to alleviate such bottlenecks using techniques such as **comprehensions**, **generators**, **vectorization** and **parallelization**. You will be introduced to how  to use the **Numba** library to speed-up your code. You will hear about the fundamental computational costs of mathematical operations and memory management (caching).
 
-**Class:** Work on your model analysis project
+**Class:** Feedback on model analysis project
 
 &nbsp;
 
-### Week 14
-
-&nbsp;
-
-**Lecture:** Work on your model analysis project
-
-**Class:** Work on your model analysis project
-
-&nbsp;
-
-
-### Week 15: Further Perspectives: Other programming languages
-
-&nbsp;
-
-**Lecture:** We will discuss alternative programming languages such as MATLAB, R, C++ and Julia
-
-**Class:** Polish your exam portfolio

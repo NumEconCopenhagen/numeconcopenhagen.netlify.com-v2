@@ -32,10 +32,10 @@ In **week 1-3** you should:
 &nbsp;
 
 * [Deadlines](https://docs.google.com/spreadsheets/d/1T3g-ltqZNWU_92QEdgSbyzlpUROkMUjVQkqzv6xGDD0/edit?usp=sharing)
-* [Project 0: Inaugural](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2020/blob/master/projects/InauguralProject.pdf)
-* [Project 1: Data analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2020/blob/master/projects/DataProject.pdf)
-* [Project 2: Model analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2020/blob/master/projects/ModelProject.pdf)
-* [Peer-feedback guide](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2020/blob/master/projects/PeerFeedbackGuide.pdf) 
+* [Project 0: Inaugural](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/InauguralProject.pdf)
+* [Project 1: Data analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/DataProject.pdf)
+* [Project 2: Model analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/ModelProject.pdf)
+* [Peer-feedback guide](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/PeerFeedbackGuide.pdf) 
 
 &nbsp;
 
@@ -43,7 +43,7 @@ In **week 1-3** you should:
 
 &nbsp;
 
-* [Information](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2020/blob/master/projects/ExamProject.pdf)
+* [Information](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/ExamProject.pdf)
 * [Problem set 2019](/exercises/exam_2019)
 * [Suggested solution 2019](/exercises/solution_2019)
 * [Problem set 2020](/exercises/exam_2020)

@@ -24,11 +24,10 @@ The course is divided into four parts:
 
 **Datacamp:** All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. 
 
-**Github:** The course is centered arround four GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
+**Github:** The course is centered arround two GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
 
-1. **[lectures-2020](https://github.com/NumEconCopenhagen/lectures-2020)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2020/master?urlpath=lab)
-2. **[exercises-2020](https://github.com/NumEconCopenhagen/exercises-2020)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2020/master?urlpath=lab)
-3. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
+1. **[lectures-2021](https://github.com/NumEconCopenhagen/lectures-2021)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2021/master?urlpath=lab)
+2. **[exercises-2021](https://github.com/NumEconCopenhagen/exercises-2021)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2021/master?urlpath=lab)
 
 <br />**Self-study:** You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
 <br />**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks/blob/master/DynamicProgramming/README.md#mini-course-in-dynamic-programming)**
@@ -73,7 +72,7 @@ You will get hands-on experience with applying the above techniques to solve wel
 
 While the course only focus on programming in Python, you will also be equipped to start learning other programming languages (such as MATLAB, R, Julia or even C/C++) on your own.
 
-*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2019-2020).*
+*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2020-2021).*
 
 &nbsp;
 
