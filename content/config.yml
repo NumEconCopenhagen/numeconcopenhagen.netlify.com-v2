@@ -24,10 +24,6 @@ urls:
     icon: "school"
     url: "/self-study"
     weight: 30
-  - title: "NumEcon"
-    icon: "explore"
-    url: "/numecon"
-    weight: 35
   - title: "ConSav"
     icon: "code"
     url: "/consav"
