@@ -20,7 +20,7 @@ To follow this course you need:
 
 **Step 1a: Main**
 
-1. Download Anaconda Python 3.7 from <https://www.anaconda.com/download/>
+1. Download Anaconda Python 3.8 from <https://www.anaconda.com/download/>
 2. Run the installer (default settings are fine)
 
 &nbsp;
