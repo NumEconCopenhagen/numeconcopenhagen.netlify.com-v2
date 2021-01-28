@@ -6,8 +6,8 @@ ___
 <br />*"This course has been amazing. It feels like i'm weaponizing the text-book theory from other courses."* (student evaluation)
 
 **Course responsible:** 
-    * [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi).
-    * [Christian Langholz Carstensen](https://www.economics.ku.dk/staff/vip/?pure=en/persons/305656), Postdoc, University of Copenhagen, [Center for Computational Economics](https://www.econ.ku.dk/cce). 
+* [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi).
+* [Christian Langholz Carstensen](https://www.economics.ku.dk/staff/vip/?pure=en/persons/305656), Postdoc, University of Copenhagen, [Center for Computational Economics](https://www.econ.ku.dk/cce). 
 
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
