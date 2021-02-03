@@ -9,8 +9,7 @@ ___
 * [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi).
 * [Christian Langholz Carstensen](https://www.economics.ku.dk/staff/vip/?pure=en/persons/305656), Postdoc, University of Copenhagen, [Center for Computational Economics](https://www.econ.ku.dk/cce). 
 
-<br/>
-This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
+<br />This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
 We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty - programming is not a spectator sport!
 

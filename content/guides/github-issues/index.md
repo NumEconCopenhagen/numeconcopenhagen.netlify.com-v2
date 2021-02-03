@@ -12,7 +12,7 @@ If you have a question, always try to find an answer by searching on Google firs
 
 To create a _GitHub Issue_ follow these steps:
 
-1. Go to the lectures repository at https://www.github.com/numeconcopenhagen/lectures-2020.
+1. Go to the lectures repository at https://www.github.com/numeconcopenhagen/lectures-2021.
 2. In the repositories navigation bar click on the banner named _Issues_.
 3. Click on _New Issue_.
 4. Give the issue an appropriate name so it is clear to other people what the issue is about.
