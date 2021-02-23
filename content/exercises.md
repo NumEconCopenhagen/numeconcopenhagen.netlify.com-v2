@@ -32,9 +32,9 @@ In **week 1-3** you should:
 &nbsp;
 
 * [Deadlines](https://docs.google.com/spreadsheets/d/1T3g-ltqZNWU_92QEdgSbyzlpUROkMUjVQkqzv6xGDD0/edit?usp=sharing)
-* [Project 0: Inaugural](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/InauguralProject.pdf)[example from last year!]
-* [Project 1: Data analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/DataProject.pdf)[example from last year!]
-* [Project 2: Model analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/ModelProject.pdf)[example from last year!]
+* [Project 0: Inaugural](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/InauguralProject.pdf) (example from last year!)
+* [Project 1: Data analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/DataProject.pdf) (example from last year!)
+* [Project 2: Model analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/ModelProject.pdf) (example from last year!)
 * [Peer-feedback guide](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/projects/PeerFeedbackGuide.pdf) 
 
 &nbsp;
