@@ -23,7 +23,7 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 6. Click *Create repository*
 7. Copy the URL from your new repository  
 
-Note: the template will ensure that you have a .gitignore file and that you are under the MIT open access license. 
+Note: using the template will ensure that you have a .gitignore file and that you are under the MIT open access license. 
 
 &nbsp;
 

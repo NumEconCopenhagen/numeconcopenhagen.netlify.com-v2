@@ -129,10 +129,10 @@ While the course only focus on programming in Python, you will also be equipped 
 
 1. [Social Data Science](https://abjer.github.io/isds2020/)
 2. [Quantitative Economics](https://lectures.quantecon.org/)
+6. [Foundations of Computational Economics by Fedor Iskhakov](https://fedor.iskh.me/compecon)
 3. [Scipy lecture notes](https://scipy-lectures.org/)
 4. [Econ-Ark](https://econ-ark.org/)
 5. [NumFocus](https://numfocus.org/)
-6. [Foundations of Computational Economics by Fedor Iskhakov](https://fedor.iskh.me/compecon)
 7. [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
 8. [Lecture notes by Fernandez-Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 9. [Lecture notes by Fatih Guvenen](https://fatihguvenen.com/teaching/econ8185-phd-computation-empirics/)
