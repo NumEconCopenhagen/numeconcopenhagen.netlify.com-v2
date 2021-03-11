@@ -14,14 +14,32 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 
 &nbsp;
 
+*If you are the creator of the repository:*
 1. Go to [GitHub.com](https://github.com/) and sign in
-2. In the lefthand sidebar click on: <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/new.png" alt="new" width="30"/>
+2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to create a group repo in class 2021
+3. Create a new team - see bottom of page. Provide the name you want for the team - this will be your permanent group name. 
+4. Click create and wait a moment or two.
+5. Now your team's repo has been created following a template design that everyone should use. And you are the only member so far.  
+<!-- 2. In the lefthand sidebar click on: <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/new.png" alt="new" width="30"/>
 3. Provide a repository name
 4. In *Repository template* choose *NumEconCopenhagen/example-2021*
 4. Add a description of the repository for good measure 
 4. Choose the *Private* option. 
 6. Click *Create repository*
-7. Copy the URL from your new repository  
+7. Copy the URL from your new repository   -->
+
+*If a group member has already created your repository/team:*
+1. Go to [GitHub.com](https://github.com/) and sign in
+2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to find all teams in the current class.
+3. Find your specific group.
+4. Click join group.
+
+*You can also **invite** members to you team:*
+1. Go to your repository page
+2. Go to **Settings** 
+3. Choose **Manage access** in the left pane
+4. Click the green button **Invite teams or people** 
+5. Search for your team members by their Github id. 
 
 Note: using the template will ensure that you have a .gitignore file and that you are under the MIT open access license. 
 
