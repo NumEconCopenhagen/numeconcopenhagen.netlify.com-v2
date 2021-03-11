@@ -14,7 +14,7 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 
 &nbsp;
 
-#### If you are the creator of the repository:
+## If you are the creator of the repository:
 
 &nbsp;
 
