@@ -32,7 +32,9 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 6. Click *Create repository*
 7. Copy the URL from your new repository   -->
 
-#### If a group member has already created your team/repository:
+&nbsp;
+
+###### If a group member has already created your team/repository:
 
 &nbsp;
 
