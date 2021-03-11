@@ -14,7 +14,8 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 
 &nbsp;
 
-*If you are the creator of the repository:*
+#### If you are the creator of the repository:
+
 1. Go to [GitHub.com](https://github.com/) and sign in
 2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to create a group repo in class 2021
 3. Create a new team - see bottom of page. Provide the name you want for the team - this will be your permanent group name. 
@@ -28,13 +29,14 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 6. Click *Create repository*
 7. Copy the URL from your new repository   -->
 
-*If a group member has already created your repository/team:*
+#### If a group member has already created your repository/team:
+
 1. Go to [GitHub.com](https://github.com/) and sign in
 2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to find all teams in the current class.
 3. Find your specific group.
 4. Click join group.
 
-*You can also **invite** members to you team:*
+#### You can also **invite** members to you team:
 1. Go to your repository page
 2. Go to **Settings** 
 3. Choose **Manage access** in the left pane
