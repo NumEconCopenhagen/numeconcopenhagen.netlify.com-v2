@@ -40,13 +40,17 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 4. Click join group.
 5. You are now a group member. (Note: each group can at most have 4 members) 
 
+&nbsp;
+
 ###### 1.3 You can also **invite** members to you team:
 
 1. Go to your repository page
 2. Go to **Settings** 
 3. Choose **Manage access** in the left pane
 4. Click the green button **Invite teams or people** 
-5. Search for your team members by their Github id. 
+5. Search for your team members by their Github id.  
+
+&nbsp;
 
 Note: using the template will ensure that you have a .gitignore file and that you are under the MIT open access license. 
 
