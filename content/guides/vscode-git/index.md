@@ -55,11 +55,11 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 Note: using the template will ensure that you have a .gitignore file and that you are under the MIT open access license. 
 
 &nbsp;
-
+<!-- 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/create-repo.gif" alt="create-repo" width="80%"/>
 <br />
 <br />
-
+ -->
 ### 2. Clone your first repostiory
 
 <br /><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: clone` + write link to repository (from e.g. step 1)
@@ -82,12 +82,18 @@ Note: using the template will ensure that you have a .gitignore file and that yo
 &nbsp;
 
 <p style="font-size: 20px;"><strong>IMPORTANT NOTE</strong>: To avoid merge conflicts always download existing changes, before you make new ones. This reduces the risk of merge conflicts, where you and your collaborators have changed the same lines of code</p>
-
+<!-- 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/git-clone-commit.gif" alt="git-clone-commit" width="80%"/>
 <br />
-<br />
+<br /> -->
 
-### 4. Merge conflicts
+### 4. Video guides for working with Git
+1. Victor and Christian create a repository and push their project to it [here](https://youtu.be/nWFeHsCAtpE).
+2. A short explanation of important concepts and commands in Git, also found in L05, can be seen [here](https://youtu.be/XqxcvWcpEtI).
+3. In [this video](https://youtu.be/Aa-qQwNwak0), you'll see some examples of how to make additional commits to the project that Victor and Christian had uploaded. Also, solving merge conflicts. 
+
+
+### 5. Merge conflicts
 
 <br />*Skip this if you are a first time user of git*
 
