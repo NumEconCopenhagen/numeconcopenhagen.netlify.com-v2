@@ -92,6 +92,7 @@ Note: using the template will ensure that you have a .gitignore file and that yo
 2. A short explanation of important concepts and commands in Git, also found in L05, can be seen [here](https://youtu.be/XqxcvWcpEtI).
 3. In [this video](https://youtu.be/Aa-qQwNwak0), you'll see some examples of how to make additional commits to the project that Victor and Christian had uploaded. Also, solving merge conflicts. 
 
+&nbsp;
 
 ### 5. Merge conflicts
 
