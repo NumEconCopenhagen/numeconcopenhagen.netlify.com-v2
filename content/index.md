@@ -141,3 +141,4 @@ While the course only focus on programming in Python, you will also be equipped 
 12. [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 13. [Online MATLAB course for students of Economics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
 14. [Cheatsheet for matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
+15. [Hotkeys for VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa)
