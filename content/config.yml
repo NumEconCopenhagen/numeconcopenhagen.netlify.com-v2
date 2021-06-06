@@ -114,7 +114,7 @@ notebook:
         path: "web/12/Canonical_economic_models.ipynb"
       - owner: "NumEconCopenhagen"
         repository: "lectures-2021"
-        path: "web/13/Agent_based_models.ipynb"
+        path: "web/13/ABMs_SMD.ipynb"
       - owner: "NumEconCopenhagen"
         repository: "lectures-2021"
         path: "web/14/The_need_for_speed.ipynb"
