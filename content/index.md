@@ -142,3 +142,4 @@ While the course only focus on programming in Python, you will also be equipped 
 13. [Online MATLAB course for students of Economics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
 14. [Cheatsheet for matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
 15. [Hotkeys for VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa)
+16. [Stata to Python Equivalents](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html)
