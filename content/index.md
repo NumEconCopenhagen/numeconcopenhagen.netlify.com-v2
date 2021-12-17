@@ -6,7 +6,7 @@ ___
 <br />*"This course has been amazing. It feels like i'm weaponizing the text-book theory from other courses."* (student evaluation)
 
 **Course responsible:** 
-* [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi).
+* [Jeppe Druedahl](https://sites.google.com/view/jeppe-druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi).
 * [Christian Langholz Carstensen](https://www.economics.ku.dk/staff/vip/?pure=en/persons/305656), Postdoc, University of Copenhagen, [Center for Computational Economics](https://www.econ.ku.dk/cce). 
 
 <br />This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
@@ -127,18 +127,15 @@ While the course only focus on programming in Python, you will also be equipped 
 
 **More:** Some recommended online ressources for learning programming relevant to economics are:
 
-1. [Social Data Science](https://abjer.github.io/isds2020/)
-2. [Quantitative Economics](https://lectures.quantecon.org/)
-6. [Foundations of Computational Economics by Fedor Iskhakov](https://fedor.iskh.me/compecon)
-3. [Scipy lecture notes](https://scipy-lectures.org/)
-4. [Econ-Ark](https://econ-ark.org/)
-5. [NumFocus](https://numfocus.org/)
-7. [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
-8. [Lecture notes by Fernandez-Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-9. [Lecture notes by Fatih Guvenen](https://fatihguvenen.com/teaching/econ8185-phd-computation-empirics/)
-10. [Lecture notes by Gianluca Violante](https://sites.google.com/a/nyu.edu/glviolante/teaching/quantmacro15)
-11. [Lecture notes by Wouter J. den Haan](http://www.wouterdenhaan.com/notes.htm)
-12. [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
-13. [Online MATLAB course for students of Economics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
-14. [Cheatsheet for matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
-15. [Hotkeys for VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa)
+1. [Quantitative Economics](https://lectures.quantecon.org/)
+1. [Foundations of Computational Economics by Fedor Iskhakov](https://fedor.iskh.me/compecon)
+1. [Econometric Society Summer School in Dynamic Structural Econometrics](https://dseconf.org/dse2021)
+1. [Numerical Methods by Florian Oswald](https://github.com/floswald/NumericalMethods)
+1. [Lecture notes by Fernandez-Villaverde](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+1. [Lecture notes by Fatih Guvenen](https://fatihguvenen.com/teaching/econ8185-phd-computation-empirics/)
+1. [Lecture notes by Gianluca Violante](https://sites.google.com/a/nyu.edu/glviolante/teaching/quantmacro15)
+1. [Lecture notes by Wouter J. den Haan](http://www.wouterdenhaan.com/notes.htm)
+1. [Python for Econometrics by Kevin Sheppard](https://www.kevinsheppard.com/Python_for_Econometrics)
+1. [Stata to Python Equivalents](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html)
+1. [Cheatsheet for matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
+1. [Hotkeys for VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf?WT.mc_id=code-online-jopapa)
