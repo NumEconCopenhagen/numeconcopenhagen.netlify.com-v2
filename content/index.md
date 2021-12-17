@@ -28,8 +28,8 @@ The course is divided into four parts:
 
 **Github:** The course is centered arround two GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
 
-1. **[lectures-2021](https://github.com/NumEconCopenhagen/lectures-2021)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2021/master?urlpath=lab)
-2. **[exercises-2021](https://github.com/NumEconCopenhagen/exercises-2021)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2021/master?urlpath=lab)
+1. **[lectures-2022](https://github.com/NumEconCopenhagen/lectures-2022)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2022/master?urlpath=lab)
+2. **[exercises-2022](https://github.com/NumEconCopenhagen/exercises-2022)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2022/master?urlpath=lab)
 
 <br />**Self-study:** You can also go through this course as self-study. Details are provided **[here](/self-study/)**.
 <br />**Next level:** Go through this **[mini-course on dynamic programming](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks/blob/master/DynamicProgramming/README.md#mini-course-in-dynamic-programming)**
