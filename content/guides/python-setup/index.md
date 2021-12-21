@@ -28,10 +28,10 @@ To follow this course you need:
 **Step 1b: JupyterLab extensions**
 
 1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
-2. (optional): Paste in `conda update --all` + <kbd>Enter</kbd>
-3. Paste in `conda install -c conda-forge nodejs` + <kbd>Enter</kbd>
-4. Paste in `conda install -c conda-forge ipympl` + <kbd>Enter</kbd>
-5. Paste in `conda install -c conda-forge ipywidgets` + <kbd>Enter</kbd>
+2. (optional): Paste in and hit return: `conda update --all`
+3. Paste in and hit return: `conda install -c conda-forge nodejs`
+4. Paste in and hit return: `conda install -c conda-forge ipympl`
+5. Paste in and hit return: `conda install -c conda-forge ipywidgets`
 <!-- 3. Paste in `conda install nodejs ipympl` + <kbd>Enter</kbd> -->
 <!-- 4. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd> (it may take a while to complete) -->
 
@@ -45,12 +45,12 @@ To follow this course you need:
 2. Run the installer (default settings are fine)
 3. Open **VSCode**
 4. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-5. Paste in `Extensions: Install Extensions` + <kbd>Enter</kbd>
+5. Paste in `Extensions: Install Extensions`  and hit <kbd>Enter</kbd>
 6. In the left panel: Search for and install the following extension (if not already installed):
     * Python (by Microsoft, see also the [marketplace website](<https://marketplace.visualstudio.com/items?itemName=ms-python.python>))
 7. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
 8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the one where Anaconda3 is in the path (unless you have installed Python outside of Anaconda and want to use that installation).
-9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
+9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` hit <kbd>Enter</kbd> and choose `Command Prompt`
 
 &nbsp;
 
