@@ -49,7 +49,7 @@ To follow this course you need:
 6. In the left panel: Search for and install the following extension (if not already installed):
     * Python (by Microsoft, see also the [marketplace website](<https://marketplace.visualstudio.com/items?itemName=ms-python.python>))
 7. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
-8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above. E.g. Python 3.n.n 64-bit ('base':conda).
+8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the one where Anaconda3 is in the path (unless you have installed Python outside of Anaconda and want to use that installation).
 9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
 
 &nbsp;
