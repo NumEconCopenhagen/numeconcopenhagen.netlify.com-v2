@@ -20,7 +20,7 @@ To follow this course you need:
 
 **Step 1a: Main**
 
-1. Download Anaconda Python 3.8 from <https://www.anaconda.com/download/>
+1. Download Anaconda Individual Edition Python 3.9 from <https://www.anaconda.com/products/individual>
 2. Run the installer (default settings are fine)
 
 &nbsp;
@@ -29,8 +29,11 @@ To follow this course you need:
 
 1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
 2. (optional): Paste in `conda update --all` + <kbd>Enter</kbd>
-3. Paste in `conda install nodejs ipympl` + <kbd>Enter</kbd>
-4. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd> (it may take a while to complete)
+3. Paste in `conda install -c conda-forge nodejs` + <kbd>Enter</kbd>
+3. Paste in `conda install -c conda-forge ipympl` + <kbd>Enter</kbd>
+3. Paste in `conda install -c conda-forge ipywidgets` + <kbd>Enter</kbd>
+<!-- 3. Paste in `conda install nodejs ipympl` + <kbd>Enter</kbd> -->
+<!-- 4. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd> (it may take a while to complete) -->
 
 &nbsp;
 
