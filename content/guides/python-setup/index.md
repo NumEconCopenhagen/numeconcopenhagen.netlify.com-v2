@@ -30,8 +30,8 @@ To follow this course you need:
 1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
 2. (optional): Paste in `conda update --all` + <kbd>Enter</kbd>
 3. Paste in `conda install -c conda-forge nodejs` + <kbd>Enter</kbd>
-3. Paste in `conda install -c conda-forge ipympl` + <kbd>Enter</kbd>
-3. Paste in `conda install -c conda-forge ipywidgets` + <kbd>Enter</kbd>
+4. Paste in `conda install -c conda-forge ipympl` + <kbd>Enter</kbd>
+5. Paste in `conda install -c conda-forge ipywidgets` + <kbd>Enter</kbd>
 <!-- 3. Paste in `conda install nodejs ipympl` + <kbd>Enter</kbd> -->
 <!-- 4. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd> (it may take a while to complete) -->
 
@@ -49,7 +49,7 @@ To follow this course you need:
 6. In the left panel: Search for and install the following extension (if not already installed):
     * Python (by Microsoft, see also the [marketplace website](<https://marketplace.visualstudio.com/items?itemName=ms-python.python>))
 7. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
-8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above
+8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above. E.g. Python 3.n.n 64-bit ('base':conda).
 9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
 
 &nbsp;
