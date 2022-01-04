@@ -31,7 +31,7 @@ In **week 1-3** you should:
 
 &nbsp;
 
-* [Deadlines](see Absalon course page).
+**Deadlines:** see Absalon course page
 * [Project 0: Inaugural](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2022/blob/main/projects/InauguralProject.pdf) 
 * [Project 1: Data analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2022/blob/main/projects/DataProject.pdf) 
 * [Project 2: Model analysis](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2022/blob/main/projects/ModelProject.pdf) 
