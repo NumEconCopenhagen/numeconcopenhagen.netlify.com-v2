@@ -17,8 +17,8 @@ title: "Course plan"
 
   1. Intro to Python for Data Science
   2. Intermediate Python for Data Science
-  3. Python Data Science Toolbox (Part 1)
-  4. Python Data Science Toolbox (Part 2)
+  3. Introduction to Git
+  4. Python Data Science Toolbox I
 
 &nbsp;
 
@@ -93,18 +93,7 @@ title: "Course plan"
 &nbsp;
 
 
-### Week 9
-
-&nbsp;
-
-**Lecture:** Easter holiday
-
-**Class:** Work on your data analysis project
-
-&nbsp;
-
-
-### Week 10: Algorithms: Searching and sorting
+### Week 9: Algorithms: Searching and sorting
 
 &nbsp;
 
@@ -114,13 +103,23 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 11: Algorithms: Solving equations
+### Week 10: Algorithms: Solving equations
 
 &nbsp;
 
 **Lecture:** You will learn about working with matrices and linear algebra (**scipy.linalg**), including solving systems of linear equations. You will learn to find roots of linear and non-linear equations both numerically (**scipy.optimize**) and symbolically (**sympy**).
 
 **Class:** Problem Set 6: Solving the Solow Model
+
+&nbsp;
+
+### Week 11
+
+&nbsp;
+
+**Lecture:** Easter holiday
+
+**Class:** Work on your data analysis project
 
 &nbsp;
 
@@ -144,11 +143,11 @@ title: "Course plan"
 
 &nbsp;
 
-### Week 14: Further Perspectives: Agent Based Models
+### Week 14: Further Perspectives: Agent Based Models and Estimation
 
 &nbsp;
 
-**Lecture:** You will see how to apply to tools and methods you have learned to solve agent based models.
+**Lecture:** You will see how to apply to tools and methods you have learned to solve agent based models. You will also see how to estimate the consumption savings model. 
 
 **Class:** Work on your model analysis project
 
