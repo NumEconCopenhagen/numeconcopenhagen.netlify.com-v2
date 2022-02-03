@@ -54,17 +54,22 @@ To follow this course you need:
 
 &nbsp;
 
-### Step 3: Install Git
+### Step 3: Install Git and JupyterLab Git extension
 
 &nbsp;
 
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
 3. Run installer with all the custom settings
-4. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and open it again if already open) 
-5. Paste in `jupyter labextension install @lckr/jupyterlab_variableinspector` + <kbd>Enter</kbd>
+4. For the JupyterLab Git extension, open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and open it again if already open) 
+5. Paste in `conda install -c conda-forge jupyterlab jupyterlab-git` + <kbd>Enter</kbd>
 
 &nbsp;
+
+### Step 4: Install variable inspector
+&nbsp;
+1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) 
+2. Paste in `pip install lckr-jupyterlab-variableinspector` + hit <kbd>Enter</kbd>
 
 ### Next guide
 
