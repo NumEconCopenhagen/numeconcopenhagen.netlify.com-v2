@@ -67,9 +67,13 @@ To follow this course you need:
 &nbsp;
 
 ### Step 4: Install variable inspector for JupyterLab
+
 &nbsp;
+
 1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) 
 2. Paste in `pip install lckr-jupyterlab-variableinspector` + hit <kbd>Enter</kbd>
+
+&nbsp;
 
 ### Next guide
 
