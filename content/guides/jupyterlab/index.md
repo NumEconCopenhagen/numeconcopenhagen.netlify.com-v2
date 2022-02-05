@@ -81,7 +81,7 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 &nbsp;
 ### 5. Shortcuts
 
-<br />Other good-to-know standard short-cuts are:
+<br />Other good-to-know standard short-cuts (on Mac, use ⌘ in stead of `Ctrl`)
 
 * Only in command mode:
    * Create new cell above: <kbd>A</kbd>
@@ -90,17 +90,19 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
    * Copy cell: <kbd>C</kbd>
    * Paste cell: <kbd>V</kbd>
    * Delete cell: <kbd>D</kbd>+<kbd>D</kbd>
+   * Merge cells: <kbd>Shift</kbd>+<kbd>M</kbd>
    * Toggle sidebar: <kbd>Ctrl</kbd>+<kbd>B</kbd>
    * Restart kernel: <kbd>0</kbd>+<kbd>0</kbd>
 * Single-document mode: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>
 * Autocomplete (when writing code): <kbd>Tab</kbd>
 * Show tooltip: <kbd>Shift</kbd>+<kbd>Tab</kbd> (used when inside function)
   
-<br />**Advanced:** Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. 
+<br />**Advanced:** Additionally, you can create customized short-cuts.  
 
-1. Open 'Settings: Advanced Settings Editor
+1. Open the Command Palette (see above) and search for *Advanced Settings Editor*
 2. Open 'Keyboard Shortcuts'
-3. In the `User Preferences` tab paste in the followng:
+3. In the `User Preferences` tab paste in the code below.
+    **Mac users:** Replace `Ctrl` with `Alt`.  
 
 ```python
 {
@@ -144,7 +146,7 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 }
 ```
 
-<br />You now have access to the following short-cuts:
+<br />You now have access to the short-cuts below. **Mac users:** use ⌥ instead of `Ctrl`. 
 
 1. Restart kernal and run all cells: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
 2. Toggle presentation mode: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
