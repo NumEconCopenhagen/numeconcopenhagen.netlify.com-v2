@@ -9,64 +9,18 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 **Note:** We assume you have already signed up for GitHub and installed git on your computer. Otherwise, see step 3 in this [guide](/guides/python-setup/).
 
 &nbsp;
-
-### 1. Create your first repository
-
-&nbsp;
-
-###### 1.1 If you are the creator of the repository:
-
-1. Go to [GitHub.com](https://github.com/) and sign in
-2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to create a group repo in class 2022
-3. Create a new team - see bottom of page. Provide the name you want for the team - this will be your permanent group name. 
-4. Click **Create team** and wait a moment or two.
-5. Now your team's repo has been created following a template design that everyone should use. And you are the only member so far.  
-
-<!-- 2. In the lefthand sidebar click on: <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/new.png" alt="new" width="30"/>
-3. Provide a repository name
-4. In *Repository template* choose *NumEconCopenhagen/example-2021*
-4. Add a description of the repository for good measure 
-4. Choose the *Private* option. 
-6. Click *Create repository*
-7. Copy the URL from your new repository   -->
-
-&nbsp;
-
-###### 1.2 If a group member has already created your team/repository:  
-
-1. Go to [GitHub.com](https://github.com/) and sign in
-2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to see all teams in the current class.
-3. Find your specific group.
-4. Click join group.
-5. You are now a group member. (Note: each group can at most have 3 members) 
-
-&nbsp;
-
-###### 1.3 You can also **invite** members to you team:
-
-1. Go to your repository page
-2. Go to **Settings** 
-3. Choose **Manage access** in the left pane
-4. Click the green button **Invite teams or people** 
-5. Search for your team members by their Github id.  
-
-&nbsp;
-
-Note: using the template will ensure that you have a .gitignore file and that you are under the MIT open access license. 
-
-&nbsp;
 <!-- 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/vscode-git/create-repo.gif" alt="create-repo" width="80%"/>
 <br />
 <br />
  -->
-### 2. Clone your first repostiory
+### Cloning a repostiory
 
 <br /><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: clone` + write link to repository (from e.g. step 1)
 
 &nbsp;
 
-### 3. Work with your first repostiory
+### Working with a repostiory
 
 &nbsp;
 
