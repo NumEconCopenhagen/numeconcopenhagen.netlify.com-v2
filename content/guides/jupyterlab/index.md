@@ -67,7 +67,7 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 
 <br /> It's handy to know that *all* commands in JupyterLab can be called from the **Command Palette**, which is essentially a search tool for available commands. 
 
-1. Hit `Ctrl + Shift + C` (Windows) or `Cmd + Shift + C` (Mac)
+1. Hit `Ctrl+Shift+C` (Windows) or `Cmd+Shift+C` (Mac)
 2. Start typing or browse for the command you want to apply 
 
 &nbsp;
