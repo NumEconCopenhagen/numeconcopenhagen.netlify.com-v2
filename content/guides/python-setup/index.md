@@ -14,7 +14,7 @@ To follow this course you need:
   
 &nbsp;
 
-### Step 1: Install Anaconda
+### Step 1: Anaconda
 
 <br />**Note:** The installation might fail if your computer username contains a space or special characters (æ, ø, å, ê, â, î, ô, û, ä, ö, ë, ï, ü, ÿ etc.). The easiest solution is to change your username (otherwise you need to install Anaconda on a path *not* containing your user name).
 
@@ -40,11 +40,12 @@ Paste in following commands and hit <kbd>Enter</kbd> one by one:
 &nbsp;
 
 
-### Step 2: Install Git and JupyterLab Git extension
+### Step 2: Git and JupyterLab Git extension
 
 &nbsp;
 
 **Git**
+
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
 3. Run installer with all the custom settings
@@ -56,9 +57,10 @@ Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and 
 
 &nbsp;
 
-### Step 3: Install variable inspector for JupyterLab
+### Step 3: Variable inspector for JupyterLab
 
-<!-- &nbsp; -->
+&nbsp;
+
 Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) and paste in
 
 * `pip install lckr-jupyterlab-variableinspector` + <kbd>Enter</kbd>
