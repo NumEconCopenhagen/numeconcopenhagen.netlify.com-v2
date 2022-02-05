@@ -5,7 +5,7 @@ title: "Running Python in JupyterLab"
 
 &nbsp;
 
-JupyterLab is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
+JupyterLab runs in your internet browser. It is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab.gif" alt="jupyterlab" width="80%"/><br /><br />
 
@@ -13,10 +13,15 @@ JupyterLab is an awesome way of combining text and code in the same framework. T
 
 <br /> *For installation of JupyterLab see step 1b [here](/guides/python-setup/)*
 
-1. Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
-2. Paste in `jupyter lab` + <kbd>Enter</kbd>
+**There are 2 ways**
 
-<br />Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
+1. Using a terminal
+    * Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac)
+    *  Write `jupyter lab` and hit <kbd>Enter</kbd>
+2. Anaconda Navigator
+    * Open the program **Anaconda Navigator** and launch JupyterLab by mouse click. There you'll also find a bunch of other programs available. 
+
+<br />Hopefully, you will experience that your default browser automatically opens a new tab looking something like this:
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab-open.gif" alt="jupyterlab-open" width="80%"/><br /><br />
 
@@ -47,8 +52,10 @@ The most important notebook commands are:
 
 1. File Browser: To open existing notebooks anywhere on your computer.
 2. Running Terminals and Kernels: To shutdown terminals and kernels.
-3. Command Palette: To see a list of possible commands.
+3. Git: Open the Git extension for JupyterLab and do your pulls, pushes, diffs etc. 
+<!-- 3. Command Palette: To see a list of possible commands. -->
 4. Table of Contents: To see links to sections based on headings (#, ##, ###).
+5. Extension manager: See all installed extensions as well available. 
 
 <br />The **interface of JupyterLab** is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).
 
@@ -56,13 +63,23 @@ The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](htt
 
 &nbsp;
 
-### 3. Variable inspector
+### 3. Command palette
+
+<br /> It's handy to know that *all* commands in JupyterLab can be called from the **Command Palette**, which is essentially a search tool for available commands. 
+
+1. Hit `Ctrl + Shift + C` (Windows) or `Cmd + Shift + C` (Mac)
+2. Start typing or browse for the command you want to apply 
+
+&nbsp;
+
+### 4. Variable inspector
 
 <br />A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
 
 <img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/jupyterlab/jupyterlab-variable-inspector.gif" alt="jupyterlab-variable-inspector" width="80%"/><br /><br />
 
-### 4. Shortcuts
+&nbsp;
+### 5. Shortcuts
 
 <br />Other good-to-know standard short-cuts are:
 

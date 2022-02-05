@@ -50,6 +50,8 @@ Paste in following commands and hit <kbd>Enter</kbd> one by one:
 2. Download git from https://git-scm.com/
 3. Run installer with all the custom settings
 
+&nbsp;
+
 **JupyterLab Git extension**
 
 Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and open it again if already open) and paste in: 
