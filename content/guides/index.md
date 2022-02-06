@@ -2,6 +2,8 @@
 title: "Guides"
 ---
 
+&nbsp;
+
 <br /> **Installing and running Python**
 
 1. [Installing Python, Git and VSCode](/guides/python-setup)
@@ -10,7 +12,7 @@ title: "Guides"
 
 <br /> **Using Git to access course material and collaboration**
 
-1. [Downloading course material using git](/guides/git-jupyterlab)
+1. [Downloading course material using Git](/guides/git-jupyterlab)
 2. [Creating your own repository](/guides/make-repo)
 3. [Using Git in VSCode](/guides/vscode-git)
 
