@@ -2,10 +2,9 @@
 title: "Downloading material using Git"
 ---
 
-<br /> This is a very short guide on how to download the course material from the course GitHub site. 
-
-#### Downloading course content for the 1st time
 &nbsp;
+
+**Downloading course content for the 1st time**
 
 Assuming that you have installed the Git extension for JupyterLab, see the installation guides, take following steps to download the course material.
 
@@ -20,7 +19,7 @@ Assuming that you have installed the Git extension for JupyterLab, see the insta
 &nbsp;
 
 
-#### Updating course content folder
+**Updating course content folder**
 
 <br /> Whenever you want to retrieve updates to the course material, you need to pull those changes from GitHub. Fortunately, this is very easy. Simply do the following:
 
