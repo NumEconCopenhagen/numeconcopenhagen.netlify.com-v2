@@ -15,7 +15,7 @@ title: "Guides"
 3. [Using Git in VSCode](/guides/vscode-git)
 
 
-<br />In the **second set** of guides you learn how to search for answers, ask questions and use git:
+<br />**Learn how to search for answers and ask questions**
 
 1. [Searching for answers using Google and Stackoverflow](/guides/searching)
 2. [Asking questions using GitHub issues](/guides/github-issues)

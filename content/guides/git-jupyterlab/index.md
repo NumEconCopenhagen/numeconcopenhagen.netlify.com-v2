@@ -1,5 +1,5 @@
 ---
-title: Downloading material using Git
+title: "Downloading material using Git"
 ---
 
 <br /> This is a very short guide on how to download the course material from the course GitHub site. 
@@ -12,6 +12,9 @@ Assuming that you have installed the Git extension for JupyterLab, see the insta
 3. Press `Clone a repository`
 4. Paste in `https://github.com/NumEconCopenhagen/lectures-2022` and enter.
 5. You now have all course material in the folder `lectures-2022`
+
+<img src="https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com-v2/raw/master/content/guides/git-jupyterlab/clone_repo.gif" alt="clone_repo" width="90%"/><br /><br />
+
 
 ## Updating course content folder
 
