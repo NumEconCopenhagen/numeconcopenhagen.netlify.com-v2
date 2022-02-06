@@ -18,3 +18,8 @@ Assuming that you have installed the Git extension for JupyterLab, see the insta
 
 ## Updating course content folder
 
+<br /> Whenever you want to retrieve updates to the course material, you need to pull those changes from GitHub. Fortunately, this is very easy. Simply do the following:
+
+1. Select the **Git** tab.
+2. Select `Pull from remote`
+3. So long as no merge conflicts are present, you now have the updated content.  
