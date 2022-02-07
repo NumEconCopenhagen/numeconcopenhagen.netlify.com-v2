@@ -66,6 +66,8 @@ Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and 
 Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) and paste in
 
 * `pip install lckr-jupyterlab-variableinspector` + <kbd>Enter</kbd>
+* If you get an error message, try the following command instead
+    * `conda install -c conda-forge jupyterlab-variableinspector`
 
 &nbsp;
 ### Step 4: VSCode
