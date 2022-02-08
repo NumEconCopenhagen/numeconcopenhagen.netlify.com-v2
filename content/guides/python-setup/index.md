@@ -55,7 +55,7 @@ Paste in following commands and hit <kbd>Enter</kbd> one by one:
 **JupyterLab Git extension**
 
 Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and open it again if already open) and paste in: 
-* `conda install -c conda-forge jupyterlab jupyterlab-git` + <kbd>Enter</kbd>
+* `conda install -c conda-forge jupyterlab jupyterlab-git` 
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) (close and 
 
 Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) and paste in
 
-* `pip install lckr-jupyterlab-variableinspector` + <kbd>Enter</kbd>
+* `pip install lckr-jupyterlab-variableinspector` 
 * If you get an error message, try the following command instead
     * `conda install -c conda-forge jupyterlab-variableinspector`
 
@@ -78,12 +78,12 @@ Open the program **Anaconda Prompt** (Windows) or **Terminal** (Mac) and paste i
 2. Run the installer (default settings are fine)
 3. Open **VSCode**
 4. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-5. Paste in `Extensions: Install Extensions`  and hit <kbd>Enter</kbd>
+5. Paste in `Extensions: Install Extensions`  and hit Enter
 6. In the left panel: Search for and install the following extension (if not already installed):
     * Python (by Microsoft, see also the [marketplace website](<https://marketplace.visualstudio.com/items?itemName=ms-python.python>))
 7. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
-8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the one where Anaconda3 is in the path (unless you have installed Python outside of Anaconda and want to use that installation).
-9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` hit <kbd>Enter</kbd> and choose `Command Prompt`
+8. Paste in `Python: Select Interpreter` and choose the option where "anaconda3" is part of the path.
+9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` hit and choose `Command Prompt`
 
 &nbsp;
 
