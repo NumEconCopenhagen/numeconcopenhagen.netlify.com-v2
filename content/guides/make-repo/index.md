@@ -11,7 +11,7 @@ title: "Making your own repository"
 #### 1. If you are the creator of the repository:
 
 1. Go to [GitHub.com](https://github.com/) and sign in
-2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to create a group repo in class 2022
+2. Follow [this invitation link](https://classroom.github.com/a/BaiWsAXt) to create a group repo in class 2022
 3. Create a new team - see bottom of page. Provide the name you want for the team - this will be your permanent group name. 
 4. Click **Create team** and wait a moment or two.
 5. Now your team's repo has been created following a template design that everyone should use. And you are the only member so far.  
@@ -21,7 +21,7 @@ title: "Making your own repository"
 #### 2. If a group member has already created your team/repository:  
 
 1. Go to [GitHub.com](https://github.com/) and sign in
-2. Follow [this invitation link](https://classroom.github.com/g/AntGyHF2) to see all teams in the current class.
+2. Follow [this invitation link](https://classroom.github.com/a/BaiWsAXt) to see all teams in the current class.
 3. Find your specific group.
 4. Click join group.
 5. You are now a group member. (Note: each group can at most have 3 members) 
