@@ -2,7 +2,7 @@
 title: "Lectures"
 ---
 
-* [Introduction](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/01/01_Introduction.pdf)
+* [Introduction](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2022/blob/master/01/01_Introduction.pdf)
 * [Lecture 1 - Introduction](/lectures/Introduction)
 * [Lecture 2 - Fundamentals: Primitives](/lectures/Primitives)
 * [Lecture 3 - Fundamentals: Optimize print and plot](/lectures/Optimize_print_and_plot)
@@ -17,5 +17,5 @@ title: "Lectures"
 * [Lecture 12 - Further perspectives: Canonical Economic Models](/lectures/Canonical_Economic_models)
 * [Lecture 13 - Further perspectives: Agent Based Models](/lectures/ABMs_SMD)
 * [Lecture 14 - Further perspectives: The need for speed](/lectures/The_need_for_speed)
-* [Outroduction](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2021/blob/master/14/14_Outroduction.pdf)
+* [Outroduction](https://nbviewer.jupyter.org/github/NumEconCopenhagen/lectures-2022/blob/master/14/14_Outroduction.pdf)
 * [Appendix A - Further perspectives: Other programming languages](/lectures/Other_programming_languages)

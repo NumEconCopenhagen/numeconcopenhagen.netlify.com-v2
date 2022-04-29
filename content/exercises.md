@@ -50,3 +50,5 @@ In **week 1-3** you should:
 * [Suggested solution 2020](/exercises/solution_2020)
 * [Problem set 2020 (re-take)](/exercises/re_exam_2020)
 * [Suggested solution 2020 (re-take)](/exercises/re_solution_2020)
+* [Problem set 2021 (re-take)](/exercises/re_exam_2021)
+* [Suggested solution 2021 (re-take)](/exercises/re_solution_2021)
