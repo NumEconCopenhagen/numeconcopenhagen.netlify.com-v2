@@ -3,6 +3,8 @@ title: "Welcome to Introduction to Programming and Numerical Analysis"
 ---
 ___
 
+<br />**OUTDATED!** See newest version of course [here](https://sites.google.com/view/numeconcph-introprog/home). 
+
 <br />*"This course has been amazing. It feels like i'm weaponizing the text-book theory from other courses."* (student evaluation)
 
 **Course responsible:** 
